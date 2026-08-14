@@ -1,0 +1,55 @@
+
+ditu4b.png
+size: 129,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1
+  rotate: false
+  xy: 41, 2
+  size: 56, 29
+  orig: 58, 31
+  offset: 1, 1
+  index: -1
+d2
+  rotate: true
+  xy: 99, 8
+  size: 65, 26
+  orig: 67, 28
+  offset: 1, 1
+  index: -1
+d3
+  rotate: true
+  xy: 97, 75
+  size: 62, 30
+  orig: 64, 33
+  offset: 1, 1
+  index: -1
+g
+  rotate: false
+  xy: 43, 92
+  size: 52, 45
+  orig: 65, 58
+  offset: 5, 7
+  index: -1
+h1
+  rotate: false
+  xy: 2, 6
+  size: 37, 59
+  orig: 39, 62
+  offset: 2, 0
+  index: -1
+h2
+  rotate: false
+  xy: 2, 67
+  size: 39, 70
+  orig: 40, 75
+  offset: 1, 2
+  index: -1
+h3
+  rotate: false
+  xy: 43, 33
+  size: 37, 57
+  orig: 38, 58
+  offset: 1, 0
+  index: -1

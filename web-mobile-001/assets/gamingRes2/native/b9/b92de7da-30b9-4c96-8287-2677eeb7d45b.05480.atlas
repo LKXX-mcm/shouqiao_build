@@ -1,0 +1,97 @@
+
+btc.png
+size: 404,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biti
+  rotate: false
+  xy: 362, 21
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+shetou
+  rotate: true
+  xy: 329, 44
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 194
+  size: 210, 208
+  orig: 210, 208
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 214, 106
+  size: 110, 153
+  orig: 110, 153
+  offset: 0, 0
+  index: -1
+tx/1
+  rotate: false
+  xy: 326, 108
+  size: 72, 53
+  orig: 131, 93
+  offset: 28, 19
+  index: -1
+tx/2
+  rotate: false
+  xy: 121, 14
+  size: 87, 63
+  orig: 131, 93
+  offset: 19, 13
+  index: -1
+tx/3
+  rotate: true
+  xy: 326, 163
+  size: 96, 76
+  orig: 131, 93
+  offset: 16, 9
+  index: -1
+tx/4
+  rotate: false
+  xy: 2, 104
+  size: 118, 88
+  orig: 131, 93
+  offset: 7, 1
+  index: -1
+tx/5
+  rotate: true
+  xy: 122, 79
+  size: 113, 88
+  orig: 131, 93
+  offset: 7, 2
+  index: -1
+tx/6
+  rotate: false
+  xy: 212, 12
+  size: 115, 92
+  orig: 131, 93
+  offset: 7, 0
+  index: -1
+yeti
+  rotate: true
+  xy: 329, 24
+  size: 18, 31
+  orig: 19, 32
+  offset: 1, 0
+  index: -1
+yeti_big
+  rotate: false
+  xy: 214, 261
+  size: 118, 141
+  orig: 118, 141
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 2, 48
+  size: 117, 54
+  orig: 119, 56
+  offset: 1, 1
+  index: -1

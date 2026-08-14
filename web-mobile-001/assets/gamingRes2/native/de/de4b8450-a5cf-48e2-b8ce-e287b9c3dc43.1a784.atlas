@@ -1,0 +1,27 @@
+
+xcsz.png
+size: 512,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cs_zhen
+  rotate: true
+  xy: 2, 2
+  size: 194, 195
+  orig: 194, 195
+  offset: 0, 0
+  index: -1
+zhen1
+  rotate: false
+  xy: 358, 32
+  size: 151, 164
+  orig: 153, 167
+  offset: 1, 1
+  index: -1
+zhen2
+  rotate: false
+  xy: 199, 39
+  size: 157, 157
+  orig: 159, 160
+  offset: 1, 1
+  index: -1

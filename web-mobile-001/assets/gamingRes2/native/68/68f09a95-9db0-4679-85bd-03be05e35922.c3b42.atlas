@@ -1,0 +1,160 @@
+
+8_bei.png
+size: 267,710
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G
+  rotate: false
+  xy: 12, 496
+  size: 204, 204
+  orig: 228, 228
+  offset: 12, 12
+  index: -1
+bian
+  rotate: true
+  xy: 81, 209
+  size: 96, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+images/qk_02
+  rotate: true
+  xy: 81, 10
+  size: 31, 49
+  orig: 64, 64
+  offset: 19, 0
+  index: -1
+images/qk_03
+  rotate: true
+  xy: 149, 17
+  size: 46, 53
+  orig: 64, 64
+  offset: 13, 0
+  index: -1
+images/qk_04
+  rotate: true
+  xy: 81, 51
+  size: 53, 56
+  orig: 64, 64
+  offset: 8, 1
+  index: -1
+images/qk_05
+  rotate: true
+  xy: 190, 238
+  size: 59, 60
+  orig: 64, 64
+  offset: 3, 2
+  index: -1
+images/qk_06
+  rotate: false
+  xy: 183, 73
+  size: 56, 56
+  orig: 64, 64
+  offset: 4, 7
+  index: -1
+images/yan_02
+  rotate: true
+  xy: 239, 213
+  size: 15, 16
+  orig: 29, 29
+  offset: 7, 7
+  index: -1
+images/yan_03
+  rotate: true
+  xy: 228, 478
+  size: 18, 19
+  orig: 29, 29
+  offset: 6, 4
+  index: -1
+images/yan_05
+  rotate: true
+  xy: 228, 506
+  size: 21, 22
+  orig: 29, 29
+  offset: 5, 1
+  index: -1
+images/yan_07
+  rotate: true
+  xy: 228, 601
+  size: 22, 23
+  orig: 29, 29
+  offset: 5, 1
+  index: -1
+images/yan_09
+  rotate: true
+  xy: 228, 569
+  size: 22, 23
+  orig: 29, 29
+  offset: 5, 1
+  index: -1
+images/yan_11
+  rotate: true
+  xy: 228, 633
+  size: 23, 24
+  orig: 29, 29
+  offset: 5, 0
+  index: -1
+images/yan_15
+  rotate: false
+  xy: 228, 537
+  size: 22, 22
+  orig: 29, 29
+  offset: 3, 0
+  index: -1
+shen
+  rotate: false
+  xy: 81, 114
+  size: 90, 85
+  orig: 90, 85
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 12, 315
+  size: 171, 182
+  orig: 171, 182
+  offset: 0, 0
+  index: -1
+tun
+  rotate: true
+  xy: 190, 139
+  size: 89, 37
+  orig: 89, 37
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 206, 307
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 228, 666
+  size: 34, 18
+  orig: 36, 20
+  offset: 1, 1
+  index: -1
+zuoshou
+  rotate: false
+  xy: 214, 16
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 206, 391
+  size: 47, 77
+  orig: 47, 77
+  offset: 0, 0
+  index: -1
+图层 252
+  rotate: false
+  xy: 12, 15
+  size: 57, 290
+  orig: 57, 291
+  offset: 0, 1
+  index: -1

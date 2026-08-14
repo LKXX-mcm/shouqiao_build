@@ -1,0 +1,27 @@
+
+bossfeng.png
+size: 348,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f1
+  rotate: false
+  xy: 2, 6
+  size: 144, 146
+  orig: 144, 151
+  offset: 0, 0
+  index: -1
+f2
+  rotate: false
+  xy: 148, 2
+  size: 115, 150
+  orig: 120, 155
+  offset: 0, 4
+  index: -1
+f3
+  rotate: false
+  xy: 2, 154
+  size: 190, 192
+  orig: 190, 192
+  offset: 0, 0
+  index: -1

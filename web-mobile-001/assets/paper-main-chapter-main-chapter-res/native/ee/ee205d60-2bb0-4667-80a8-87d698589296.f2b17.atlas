@@ -1,0 +1,62 @@
+
+bx3.png
+size: 136,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gz1
+  rotate: false
+  xy: 2, 127
+  size: 90, 46
+  orig: 90, 46
+  offset: 0, 0
+  index: -1
+gz2
+  rotate: false
+  xy: 2, 19
+  size: 86, 50
+  orig: 86, 50
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 94, 138
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+quan_g
+  rotate: true
+  xy: 2, 175
+  size: 130, 132
+  orig: 135, 138
+  offset: 3, 3
+  index: -1
+shug
+  rotate: false
+  xy: 94, 60
+  size: 24, 76
+  orig: 25, 77
+  offset: 1, 0
+  index: -1
+xz
+  rotate: false
+  xy: 2, 71
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+xz2
+  rotate: false
+  xy: 90, 17
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+xz3
+  rotate: false
+  xy: 2, 2
+  size: 62, 15
+  orig: 62, 15
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+chepaok.png
+size: 133,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chepao
+  rotate: true
+  xy: 47, 64
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+pk1
+  rotate: true
+  xy: 2, 6
+  size: 44, 73
+  orig: 47, 78
+  offset: 3, 1
+  index: -1
+pk2
+  rotate: false
+  xy: 2, 52
+  size: 43, 79
+  orig: 43, 82
+  offset: 0, 1
+  index: -1
+pk3
+  rotate: true
+  xy: 47, 89
+  size: 42, 71
+  orig: 42, 72
+  offset: 0, 0
+  index: -1
+pk4
+  rotate: false
+  xy: 77, 2
+  size: 42, 60
+  orig: 44, 63
+  offset: 0, 2
+  index: -1
+pkz
+  rotate: true
+  xy: 86, 72
+  size: 15, 36
+  orig: 19, 39
+  offset: 2, 2
+  index: -1

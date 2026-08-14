@@ -1,0 +1,20 @@
+
+dilie.png
+size: 172,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dilie
+  rotate: true
+  xy: 2, 2
+  size: 131, 132
+  orig: 131, 132
+  offset: 0, 0
+  index: -1
+yw
+  rotate: true
+  xy: 136, 98
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+gxhd.png
+size: 652,652
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Quan
+  rotate: false
+  xy: 191, 170
+  size: 135, 137
+  orig: 135, 146
+  offset: 0, 8
+  index: -1
+bian1
+  rotate: false
+  xy: 2, 3
+  size: 286, 30
+  orig: 286, 30
+  offset: 0, 0
+  index: -1
+bian2
+  rotate: true
+  xy: 388, 131
+  size: 286, 41
+  orig: 286, 41
+  offset: 0, 0
+  index: -1
+ddG
+  rotate: false
+  xy: 2, 231
+  size: 187, 186
+  orig: 192, 191
+  offset: 3, 3
+  index: -1
+di
+  rotate: false
+  xy: 2, 419
+  size: 429, 230
+  orig: 429, 230
+  offset: 0, 0
+  index: -1
+ding
+  rotate: false
+  xy: 290, 2
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+fang
+  rotate: true
+  xy: 433, 35
+  size: 614, 69
+  orig: 614, 70
+  offset: 0, 0
+  index: -1
+fangkuai
+  rotate: false
+  xy: 367, 17
+  size: 15, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+g2
+  rotate: true
+  xy: 268, 309
+  size: 108, 109
+  orig: 130, 128
+  offset: 11, 10
+  index: -1
+kuai
+  rotate: true
+  xy: 346, 13
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+kuai2
+  rotate: false
+  xy: 367, 3
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 2, 54
+  size: 264, 75
+  orig: 264, 75
+  offset: 0, 0
+  index: -1

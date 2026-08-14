@@ -1,0 +1,132 @@
+
+7.png
+size: 522,609
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dai
+  rotate: false
+  xy: 496, 95
+  size: 14, 28
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 294, 46
+  size: 41, 41
+  orig: 45, 45
+  offset: 2, 2
+  index: -1
+gq
+  rotate: false
+  xy: 178, 17
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+jvji_01
+  rotate: false
+  xy: 12, 351
+  size: 248, 248
+  orig: 256, 256
+  offset: 0, 8
+  index: -1
+jvji_02
+  rotate: true
+  xy: 12, 101
+  size: 240, 244
+  orig: 256, 256
+  offset: 4, 4
+  index: -1
+jvji_03
+  rotate: false
+  xy: 272, 367
+  size: 236, 232
+  orig: 256, 256
+  offset: 8, 12
+  index: -1
+jvji_04
+  rotate: false
+  xy: 272, 133
+  size: 228, 224
+  orig: 256, 256
+  offset: 12, 12
+  index: -1
+qt
+  rotate: false
+  xy: 347, 58
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+quanzhang
+  rotate: true
+  xy: 268, 97
+  size: 26, 107
+  orig: 26, 107
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 240, 18
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 387, 33
+  size: 97, 90
+  orig: 97, 90
+  offset: 0, 0
+  index: -1
+tun
+  rotate: true
+  xy: 347, 10
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+weibo
+  rotate: false
+  xy: 12, 58
+  size: 72, 33
+  orig: 72, 33
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 178, 57
+  size: 50, 34
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 96, 54
+  size: 70, 37
+  orig: 72, 39
+  offset: 1, 1
+  index: -1
+zuoshou
+  rotate: true
+  xy: 12, 13
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 240, 62
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+图层 38
+  rotate: true
+  xy: 293, 13
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1

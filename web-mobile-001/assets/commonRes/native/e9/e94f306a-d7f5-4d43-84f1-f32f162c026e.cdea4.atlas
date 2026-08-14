@@ -1,0 +1,13 @@
+
+shang.png
+size: 27,23
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sg
+  rotate: false
+  xy: 2, 2
+  size: 23, 19
+  orig: 31, 24
+  offset: 5, 2
+  index: -1

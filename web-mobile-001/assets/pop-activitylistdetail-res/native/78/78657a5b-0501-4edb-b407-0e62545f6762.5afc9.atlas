@@ -1,0 +1,69 @@
+
+bx.png
+size: 324,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 136, 13
+  size: 75, 41
+  orig: 75, 41
+  offset: 0, 0
+  index: -1
+gz1
+  rotate: false
+  xy: 136, 82
+  size: 91, 51
+  orig: 91, 51
+  offset: 0, 0
+  index: -1
+gz2
+  rotate: true
+  xy: 229, 38
+  size: 95, 49
+  orig: 95, 49
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 280, 3
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+quan_g
+  rotate: true
+  xy: 2, 3
+  size: 130, 132
+  orig: 135, 138
+  offset: 3, 3
+  index: -1
+shug
+  rotate: true
+  xy: 136, 56
+  size: 24, 76
+  orig: 25, 77
+  offset: 1, 0
+  index: -1
+xz
+  rotate: true
+  xy: 280, 40
+  size: 93, 42
+  orig: 93, 42
+  offset: 0, 0
+  index: -1
+xz2
+  rotate: false
+  xy: 226, 12
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+xz3
+  rotate: true
+  xy: 214, 2
+  size: 78, 10
+  orig: 78, 10
+  offset: 0, 0
+  index: -1

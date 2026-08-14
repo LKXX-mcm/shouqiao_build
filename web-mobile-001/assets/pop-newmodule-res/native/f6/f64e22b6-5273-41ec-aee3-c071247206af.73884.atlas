@@ -1,0 +1,48 @@
+
+gnts.png
+size: 500,500
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DG2
+  rotate: true
+  xy: 271, 271
+  size: 160, 159
+  orig: 170, 169
+  offset: 5, 5
+  index: -1
+di
+  rotate: true
+  xy: 2, 191
+  size: 240, 267
+  orig: 240, 267
+  offset: 0, 0
+  index: -1
+di_g
+  rotate: false
+  xy: 271, 123
+  size: 145, 146
+  orig: 171, 170
+  offset: 13, 12
+  index: -1
+kuai
+  rotate: true
+  xy: 2, 171
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+kuai2
+  rotate: true
+  xy: 30, 171
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 2, 433
+  size: 495, 64
+  orig: 495, 64
+  offset: 0, 0
+  index: -1

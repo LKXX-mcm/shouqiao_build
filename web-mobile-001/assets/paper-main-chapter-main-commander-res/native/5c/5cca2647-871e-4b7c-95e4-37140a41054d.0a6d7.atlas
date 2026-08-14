@@ -1,0 +1,111 @@
+
+yuanpi.png
+size: 550,525
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fa1
+  rotate: false
+  xy: 449, 11
+  size: 84, 76
+  orig: 84, 76
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: true
+  xy: 430, 280
+  size: 54, 99
+  orig: 54, 99
+  offset: 0, 0
+  index: -1
+fadai1
+  rotate: false
+  xy: 212, 185
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+fadai2
+  rotate: false
+  xy: 278, 187
+  size: 22, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+fadai3
+  rotate: true
+  xy: 344, 140
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: true
+  xy: 12, 183
+  size: 332, 188
+  orig: 332, 188
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 12, 10
+  size: 143, 163
+  orig: 143, 163
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 344, 344
+  size: 171, 183
+  orig: 171, 183
+  offset: 0, 0
+  index: -1
+tun
+  rotate: false
+  xy: 405, 97
+  size: 133, 78
+  orig: 133, 78
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 212, 367
+  size: 148, 119
+  orig: 148, 127
+  offset: 0, 8
+  index: -1
+youtui
+  rotate: false
+  xy: 339, 194
+  size: 79, 140
+  orig: 79, 140
+  offset: 0, 0
+  index: -1
+youxie
+  rotate: false
+  xy: 430, 185
+  size: 94, 85
+  orig: 94, 85
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 167, 22
+  size: 151, 165
+  orig: 151, 165
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 212, 226
+  size: 115, 131
+  orig: 115, 131
+  offset: 0, 0
+  index: -1
+zuoxie
+  rotate: true
+  xy: 344, 11
+  size: 76, 93
+  orig: 76, 93
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+yanwu.png
+size: 80,52
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shikuai
+  rotate: false
+  xy: 50, 19
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+yw
+  rotate: false
+  xy: 2, 2
+  size: 46, 45
+  orig: 46, 46
+  offset: 0, 0
+  index: -1

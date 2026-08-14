@@ -1,0 +1,27 @@
+
+djmb.png
+size: 428,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gl
+  rotate: true
+  xy: 349, 54
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+mb1
+  rotate: true
+  xy: 2, 2
+  size: 138, 175
+  orig: 138, 175
+  offset: 0, 0
+  index: -1
+mb2
+  rotate: true
+  xy: 179, 13
+  size: 127, 168
+  orig: 127, 168
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+hyjj.png
+size: 984,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jd1
+  rotate: false
+  xy: 318, 201
+  size: 307, 274
+  orig: 307, 274
+  offset: 0, 0
+  index: -1
+jd2
+  rotate: false
+  xy: 0, 197
+  size: 318, 278
+  orig: 318, 278
+  offset: 0, 0
+  index: -1
+jg2
+  rotate: true
+  xy: 826, 100
+  size: 170, 158
+  orig: 170, 159
+  offset: 0, 0
+  index: -1
+jgq
+  rotate: false
+  xy: 244, 6
+  size: 184, 191
+  orig: 209, 191
+  offset: 1, 0
+  index: -1
+jjh1
+  rotate: false
+  xy: 625, 270
+  size: 226, 205
+  orig: 238, 210
+  offset: 6, 1
+  index: -1
+jjh2
+  rotate: false
+  xy: 0, 17
+  size: 244, 180
+  orig: 261, 196
+  offset: 0, 5
+  index: -1
+jjh3
+  rotate: false
+  xy: 625, 120
+  size: 201, 150
+  orig: 220, 151
+  offset: 11, 1
+  index: -1
+jjh4
+  rotate: true
+  xy: 851, 297
+  size: 178, 122
+  orig: 179, 127
+  offset: 0, 2
+  index: -1
+jy1
+  rotate: false
+  xy: 614, 8
+  size: 114, 112
+  orig: 137, 130
+  offset: 14, 11
+  index: -1
+jy2
+  rotate: false
+  xy: 428, 0
+  size: 186, 201
+  orig: 191, 202
+  offset: 0, 0
+  index: -1
+jybbb
+  rotate: false
+  xy: 728, 57
+  size: 68, 63
+  orig: 72, 69
+  offset: 2, 3
+  index: -1

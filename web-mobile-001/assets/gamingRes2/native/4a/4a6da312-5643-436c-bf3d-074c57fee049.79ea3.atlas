@@ -1,0 +1,139 @@
+
+zhengmian.png
+size: 1008,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gun
+  rotate: true
+  xy: 318, 228
+  size: 293, 291
+  orig: 293, 291
+  offset: 0, 0
+  index: -1
+gun2
+  rotate: true
+  xy: 0, 202
+  size: 319, 318
+  orig: 322, 321
+  offset: 1, 2
+  index: -1
+j1
+  rotate: false
+  xy: 295, 4
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+j2
+  rotate: false
+  xy: 756, 39
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+j3
+  rotate: true
+  xy: 727, 25
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+jianzz
+  rotate: false
+  xy: 486, 19
+  size: 82, 55
+  orig: 82, 55
+  offset: 0, 0
+  index: -1
+jiaoy
+  rotate: true
+  xy: 568, 4
+  size: 70, 60
+  orig: 70, 60
+  offset: 0, 0
+  index: -1
+jiaoz
+  rotate: true
+  xy: 628, 13
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 846, 279
+  size: 138, 81
+  orig: 138, 81
+  offset: 0, 0
+  index: -1
+shouy
+  rotate: true
+  xy: 421, 4
+  size: 70, 65
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+sz
+  rotate: false
+  xy: 684, 19
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 330, 74
+  size: 251, 154
+  orig: 251, 154
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 581, 77
+  size: 214, 151
+  orig: 214, 151
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 846, 360
+  size: 162, 161
+  orig: 162, 161
+  offset: 0, 0
+  index: -1
+xian
+  rotate: true
+  xy: 609, 263
+  size: 258, 237
+  orig: 259, 238
+  offset: 0, 0
+  index: -1
+xxxxd
+  rotate: false
+  xy: 795, 79
+  size: 203, 184
+  orig: 210, 205
+  offset: 4, 3
+  index: -1
+yun
+  rotate: false
+  xy: 0, 49
+  size: 330, 153
+  orig: 330, 153
+  offset: 0, 0
+  index: -1
+yyy
+  rotate: false
+  xy: 0, 0
+  size: 295, 49
+  orig: 295, 49
+  offset: 0, 0
+  index: -1
+yyyb
+  rotate: false
+  xy: 295, 24
+  size: 126, 25
+  orig: 126, 25
+  offset: 0, 0
+  index: -1

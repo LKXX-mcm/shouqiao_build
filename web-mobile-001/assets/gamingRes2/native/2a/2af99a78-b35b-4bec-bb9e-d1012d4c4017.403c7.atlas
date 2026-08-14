@@ -1,0 +1,174 @@
+
+4.png
+size: 481,479
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fa
+  rotate: false
+  xy: 361, 245
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+fa1
+  rotate: false
+  xy: 254, 335
+  size: 105, 134
+  orig: 105, 134
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 371, 347
+  size: 90, 122
+  orig: 90, 122
+  offset: 0, 0
+  index: -1
+images/dix_01
+  rotate: false
+  xy: 423, 250
+  size: 39, 39
+  orig: 51, 51
+  offset: 6, 6
+  index: -1
+images/dix_02
+  rotate: false
+  xy: 429, 201
+  size: 39, 39
+  orig: 51, 51
+  offset: 6, 6
+  index: -1
+images/dix_03
+  rotate: false
+  xy: 429, 152
+  size: 39, 39
+  orig: 51, 51
+  offset: 6, 6
+  index: -1
+images/dix_04
+  rotate: false
+  xy: 429, 103
+  size: 39, 39
+  orig: 51, 51
+  offset: 6, 6
+  index: -1
+images/dix_05
+  rotate: false
+  xy: 416, 54
+  size: 38, 39
+  orig: 51, 51
+  offset: 7, 6
+  index: -1
+images/dix_06
+  rotate: false
+  xy: 189, 10
+  size: 37, 34
+  orig: 51, 51
+  offset: 8, 11
+  index: -1
+images/dix_07
+  rotate: false
+  xy: 277, 36
+  size: 27, 8
+  orig: 51, 51
+  offset: 11, 36
+  index: -1
+images/dix_08
+  rotate: false
+  xy: 113, 11
+  size: 20, 4
+  orig: 51, 51
+  offset: 15, 40
+  index: -1
+images/dix_09
+  rotate: true
+  xy: 466, 84
+  size: 9, 3
+  orig: 51, 51
+  offset: 17, 41
+  index: -1
+images/g
+  rotate: false
+  xy: 238, 17
+  size: 27, 27
+  orig: 29, 29
+  offset: 1, 1
+  index: -1
+lun
+  rotate: false
+  xy: 12, 239
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+qfa1
+  rotate: true
+  xy: 197, 54
+  size: 52, 110
+  orig: 52, 110
+  offset: 0, 0
+  index: -1
+qfa2
+  rotate: true
+  xy: 12, 11
+  size: 48, 89
+  orig: 48, 89
+  offset: 0, 0
+  index: -1
+qfa3
+  rotate: true
+  xy: 113, 25
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 254, 236
+  size: 95, 89
+  orig: 95, 89
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 12, 69
+  size: 173, 160
+  orig: 173, 160
+  offset: 0, 0
+  index: -1
+tun
+  rotate: false
+  xy: 371, 299
+  size: 87, 38
+  orig: 87, 38
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 359, 122
+  size: 58, 104
+  orig: 58, 104
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 197, 116
+  size: 74, 110
+  orig: 74, 110
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 319, 45
+  size: 85, 62
+  orig: 85, 62
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 283, 117
+  size: 64, 109
+  orig: 64, 109
+  offset: 0, 0
+  index: -1

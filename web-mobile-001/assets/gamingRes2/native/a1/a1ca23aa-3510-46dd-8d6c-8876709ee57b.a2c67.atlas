@@ -1,0 +1,153 @@
+
+13_bei.png
+size: 334,987
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G
+  rotate: false
+  xy: 12, 362
+  size: 204, 204
+  orig: 228, 228
+  offset: 12, 12
+  index: -1
+chuibang
+  rotate: false
+  xy: 12, 27
+  size: 69, 325
+  orig: 69, 327
+  offset: 0, 1
+  index: -1
+chuitou
+  rotate: true
+  xy: 12, 781
+  size: 196, 249
+  orig: 196, 249
+  offset: 0, 0
+  index: -1
+images/b_01
+  rotate: false
+  xy: 273, 760
+  size: 24, 23
+  orig: 32, 32
+  offset: 4, 5
+  index: -1
+images/b_02
+  rotate: true
+  xy: 272, 670
+  size: 18, 20
+  orig: 32, 32
+  offset: 6, 6
+  index: -1
+images/b_03
+  rotate: false
+  xy: 272, 728
+  size: 23, 22
+  orig: 32, 32
+  offset: 4, 5
+  index: -1
+images/b_04
+  rotate: false
+  xy: 272, 698
+  size: 23, 20
+  orig: 32, 32
+  offset: 4, 7
+  index: -1
+images/jianshe_01
+  rotate: true
+  xy: 228, 368
+  size: 80, 86
+  orig: 128, 128
+  offset: 44, 12
+  index: -1
+images/jianshe_02
+  rotate: false
+  xy: 228, 458
+  size: 94, 108
+  orig: 128, 128
+  offset: 28, 6
+  index: -1
+images/jianshe_03
+  rotate: true
+  xy: 93, 234
+  size: 118, 122
+  orig: 128, 128
+  offset: 6, 2
+  index: -1
+images/jianshe_04
+  rotate: false
+  xy: 93, 96
+  size: 106, 128
+  orig: 128, 128
+  offset: 16, 0
+  index: -1
+images/zhakai_04
+  rotate: false
+  xy: 181, 14
+  size: 66, 68
+  orig: 86, 85
+  offset: 10, 10
+  index: -1
+images/zhakai_05
+  rotate: false
+  xy: 93, 10
+  size: 76, 76
+  orig: 85, 85
+  offset: 6, 6
+  index: -1
+images/zhakai_06
+  rotate: false
+  xy: 211, 92
+  size: 81, 79
+  orig: 86, 85
+  offset: 3, 5
+  index: -1
+images/zhakai_07
+  rotate: false
+  xy: 227, 181
+  size: 84, 83
+  orig: 86, 86
+  offset: 2, 3
+  index: -1
+images/zhakai_08
+  rotate: false
+  xy: 228, 274
+  size: 85, 84
+  orig: 85, 86
+  offset: 0, 2
+  index: -1
+qi
+  rotate: true
+  xy: 259, 26
+  size: 56, 57
+  orig: 65, 65
+  offset: 7, 5
+  index: -1
+tou
+  rotate: true
+  xy: 12, 576
+  size: 195, 248
+  orig: 195, 248
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 273, 904
+  size: 41, 73
+  orig: 41, 73
+  offset: 0, 0
+  index: -1
+youtui 拷贝
+  rotate: false
+  xy: 273, 821
+  size: 41, 73
+  orig: 41, 73
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 273, 793
+  size: 34, 18
+  orig: 36, 20
+  offset: 1, 1
+  index: -1

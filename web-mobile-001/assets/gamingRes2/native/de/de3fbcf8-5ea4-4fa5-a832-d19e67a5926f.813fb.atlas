@@ -1,0 +1,62 @@
+
+kh.png
+size: 328,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bz/1
+  rotate: false
+  xy: 199, 22
+  size: 69, 52
+  orig: 118, 92
+  offset: 27, 22
+  index: -1
+bz/2
+  rotate: false
+  xy: 211, 76
+  size: 86, 65
+  orig: 118, 92
+  offset: 17, 15
+  index: -1
+bz/3
+  rotate: true
+  xy: 120, 17
+  size: 98, 77
+  orig: 118, 92
+  offset: 9, 11
+  index: -1
+bz/4
+  rotate: false
+  xy: 211, 143
+  size: 112, 88
+  orig: 118, 92
+  offset: 6, 2
+  index: -1
+bz/5
+  rotate: false
+  xy: 211, 233
+  size: 112, 90
+  orig: 118, 92
+  offset: 0, 2
+  index: -1
+bz/6
+  rotate: false
+  xy: 2, 23
+  size: 116, 92
+  orig: 118, 92
+  offset: 0, 0
+  index: -1
+dg2
+  rotate: false
+  xy: 2, 117
+  size: 207, 206
+  orig: 242, 242
+  offset: 19, 19
+  index: -1
+lizi_tiao
+  rotate: true
+  xy: 2, 9
+  size: 12, 65
+  orig: 15, 68
+  offset: 2, 1
+  index: -1

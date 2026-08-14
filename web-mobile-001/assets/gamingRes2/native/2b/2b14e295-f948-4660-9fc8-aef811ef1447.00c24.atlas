@@ -1,0 +1,104 @@
+
+zz_jy.png
+size: 484,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_t1
+  rotate: true
+  xy: 2, 3
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+l_t2
+  rotate: true
+  xy: 422, 79
+  size: 72, 56
+  orig: 72, 56
+  offset: 0, 0
+  index: -1
+l_t3
+  rotate: false
+  xy: 264, 18
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+r_t1
+  rotate: true
+  xy: 90, 3
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+r_t2
+  rotate: true
+  xy: 422, 2
+  size: 75, 55
+  orig: 75, 55
+  offset: 0, 0
+  index: -1
+r_t3
+  rotate: true
+  xy: 328, 10
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 2, 130
+  size: 112, 172
+  orig: 112, 172
+  offset: 0, 0
+  index: -1
+xian
+  rotate: true
+  xy: 2, 85
+  size: 43, 290
+  orig: 43, 290
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 294, 74
+  size: 126, 72
+  orig: 134, 80
+  offset: 4, 4
+  index: -1
+yj_g
+  rotate: true
+  xy: 271, 186
+  size: 56, 19
+  orig: 56, 19
+  offset: 0, 0
+  index: -1
+攻击/1
+  rotate: false
+  xy: 390, 153
+  size: 89, 89
+  orig: 91, 90
+  offset: 1, 1
+  index: -1
+攻击/2
+  rotate: false
+  xy: 176, 149
+  size: 93, 93
+  orig: 95, 95
+  offset: 1, 1
+  index: -1
+攻击/3
+  rotate: false
+  xy: 294, 148
+  size: 94, 94
+  orig: 96, 103
+  offset: 1, 1
+  index: -1
+攻击/4
+  rotate: true
+  xy: 178, 3
+  size: 80, 84
+  orig: 83, 85
+  offset: 2, 1
+  index: -1

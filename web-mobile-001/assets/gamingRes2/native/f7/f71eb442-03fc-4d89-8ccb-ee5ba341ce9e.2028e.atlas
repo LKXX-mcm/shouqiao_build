@@ -1,0 +1,76 @@
+
+rulaisszz.png
+size: 907,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+foyan0
+  rotate: false
+  xy: 595, 20
+  size: 227, 216
+  orig: 227, 223
+  offset: 0, 0
+  index: -1
+foyan2
+  rotate: true
+  xy: 768, 288
+  size: 141, 136
+  orig: 143, 137
+  offset: 1, 0
+  index: -1
+fozz2
+  rotate: true
+  xy: 0, 0
+  size: 284, 339
+  orig: 296, 353
+  offset: 6, 7
+  index: -1
+fozzd
+  rotate: true
+  xy: 339, 25
+  size: 211, 256
+  orig: 211, 256
+  offset: 0, 0
+  index: -1
+fqb1
+  rotate: false
+  xy: 0, 284
+  size: 373, 302
+  orig: 376, 302
+  offset: 3, 0
+  index: -1
+fs1
+  rotate: false
+  xy: 822, 132
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+fs2
+  rotate: true
+  xy: 822, 201
+  size: 87, 81
+  orig: 90, 82
+  offset: 3, 0
+  index: -1
+fshouhxxx
+  rotate: true
+  xy: 373, 236
+  size: 95, 395
+  orig: 95, 412
+  offset: 0, 8
+  index: -1
+fzhanghh
+  rotate: true
+  xy: 373, 331
+  size: 255, 380
+  orig: 266, 380
+  offset: 11, 0
+  index: -1
+ty1
+  rotate: false
+  xy: 753, 429
+  size: 154, 157
+  orig: 179, 187
+  offset: 10, 15
+  index: -1

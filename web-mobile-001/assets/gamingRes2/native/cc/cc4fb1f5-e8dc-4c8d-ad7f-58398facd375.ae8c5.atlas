@@ -1,0 +1,48 @@
+
+bosst.png
+size: 92,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 49, 2
+  size: 39, 41
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 51, 91
+  size: 47, 39
+  orig: 49, 40
+  offset: 1, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 45
+  size: 49, 39
+  orig: 51, 40
+  offset: 1, 0
+  index: -1
+bosst
+  rotate: false
+  xy: 2, 4
+  size: 45, 39
+  orig: 46, 40
+  offset: 1, 0
+  index: -1
+bosst2
+  rotate: true
+  xy: 2, 86
+  size: 52, 47
+  orig: 56, 51
+  offset: 2, 2
+  index: -1
+bow
+  rotate: true
+  xy: 53, 58
+  size: 31, 15
+  orig: 32, 17
+  offset: 0, 1
+  index: -1

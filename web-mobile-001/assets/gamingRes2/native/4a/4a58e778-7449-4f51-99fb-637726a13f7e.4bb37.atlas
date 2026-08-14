@@ -1,0 +1,90 @@
+
+dianwangdi.png
+size: 1002,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dw1
+  rotate: false
+  xy: 0, 5
+  size: 512, 118
+  orig: 512, 123
+  offset: 0, 0
+  index: -1
+dw2
+  rotate: true
+  xy: 803, 0
+  size: 512, 100
+  orig: 512, 106
+  offset: 0, 6
+  index: -1
+dw3
+  rotate: false
+  xy: 0, 123
+  size: 512, 134
+  orig: 512, 135
+  offset: 0, 1
+  index: -1
+dw4
+  rotate: true
+  xy: 698, 0
+  size: 512, 105
+  orig: 512, 120
+  offset: 0, 4
+  index: -1
+td1
+  rotate: true
+  xy: 903, 399
+  size: 113, 96
+  orig: 113, 99
+  offset: 0, 2
+  index: -1
+td2
+  rotate: false
+  xy: 512, 13
+  size: 113, 100
+  orig: 113, 102
+  offset: 0, 0
+  index: -1
+td3
+  rotate: true
+  xy: 903, 291
+  size: 108, 99
+  orig: 110, 99
+  offset: 1, 0
+  index: -1
+wang
+  rotate: false
+  xy: 0, 382
+  size: 693, 130
+  orig: 693, 130
+  offset: 0, 0
+  index: -1
+xd2
+  rotate: false
+  xy: 903, 253
+  size: 96, 38
+  orig: 96, 43
+  offset: 0, 5
+  index: -1
+xian
+  rotate: false
+  xy: 0, 257
+  size: 698, 125
+  orig: 700, 125
+  offset: 1, 0
+  index: -1
+zg
+  rotate: false
+  xy: 512, 113
+  size: 144, 144
+  orig: 154, 154
+  offset: 5, 5
+  index: -1
+zhuzi
+  rotate: false
+  xy: 656, 116
+  size: 32, 141
+  orig: 33, 141
+  offset: 0, 0
+  index: -1

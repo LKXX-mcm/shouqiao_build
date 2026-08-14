@@ -1,0 +1,90 @@
+
+dianjiang.png
+size: 1507,1031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di1
+  rotate: true
+  xy: 1354, 38
+  size: 129, 70
+  orig: 129, 71
+  offset: 0, 1
+  index: -1
+guang2
+  rotate: false
+  xy: 1284, 860
+  size: 138, 169
+  orig: 139, 172
+  offset: 1, 2
+  index: -1
+gx1
+  rotate: false
+  xy: 1284, 559
+  size: 109, 111
+  orig: 109, 111
+  offset: 0, 0
+  index: -1
+gx2
+  rotate: true
+  xy: 1452, 332
+  size: 337, 53
+  orig: 359, 56
+  offset: 13, 2
+  index: -1
+gy
+  rotate: false
+  xy: 1284, 672
+  size: 116, 186
+  orig: 122, 192
+  offset: 3, 3
+  index: -1
+y
+  rotate: true
+  xy: 2, 587
+  size: 442, 1280
+  orig: 442, 1280
+  offset: 0, 0
+  index: -1
+y1
+  rotate: true
+  xy: 1424, 671
+  size: 358, 79
+  orig: 363, 86
+  offset: 2, 4
+  index: -1
+y2
+  rotate: true
+  xy: 1284, 47
+  size: 510, 68
+  orig: 522, 81
+  offset: 6, 2
+  index: -1
+yq1
+  rotate: true
+  xy: 1452, 62
+  size: 268, 32
+  orig: 268, 32
+  offset: 0, 0
+  index: -1
+z
+  rotate: true
+  xy: 2, 162
+  size: 423, 1280
+  orig: 423, 1280
+  offset: 0, 0
+  index: -1
+zg
+  rotate: false
+  xy: 1354, 169
+  size: 96, 388
+  orig: 98, 399
+  offset: 1, 5
+  index: -1
+zt
+  rotate: true
+  xy: 2, 2
+  size: 158, 1280
+  orig: 158, 1280
+  offset: 0, 0
+  index: -1

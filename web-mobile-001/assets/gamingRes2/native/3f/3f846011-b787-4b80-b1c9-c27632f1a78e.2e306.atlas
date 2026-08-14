@@ -1,0 +1,41 @@
+
+jg.png
+size: 232,420
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1
+  rotate: true
+  xy: 2, 196
+  size: 95, 228
+  orig: 95, 337
+  offset: 0, 0
+  index: -1
+d2
+  rotate: true
+  xy: 2, 99
+  size: 95, 228
+  orig: 95, 337
+  offset: 0, 0
+  index: -1
+d3
+  rotate: true
+  xy: 2, 2
+  size: 95, 228
+  orig: 95, 337
+  offset: 0, 0
+  index: -1
+dg
+  rotate: true
+  xy: 95, 293
+  size: 122, 123
+  orig: 146, 146
+  offset: 12, 12
+  index: -1
+xg
+  rotate: false
+  xy: 2, 364
+  size: 91, 51
+  orig: 91, 88
+  offset: 0, 22
+  index: -1

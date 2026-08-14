@@ -1,0 +1,83 @@
+
+huo2.png
+size: 408,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/huo_00001
+  rotate: false
+  xy: 237, 37
+  size: 153, 95
+  orig: 160, 100
+  offset: 1, 0
+  index: -1
+1/huo_00002
+  rotate: true
+  xy: 198, 152
+  size: 155, 95
+  orig: 160, 100
+  offset: 1, 0
+  index: -1
+1/huo_00004
+  rotate: false
+  xy: 2, 309
+  size: 157, 96
+  orig: 160, 100
+  offset: 1, 0
+  index: -1
+1/huo_00005
+  rotate: false
+  xy: 161, 309
+  size: 155, 96
+  orig: 160, 100
+  offset: 1, 0
+  index: -1
+1/huo_00007
+  rotate: true
+  xy: 2, 152
+  size: 155, 96
+  orig: 160, 100
+  offset: 1, 0
+  index: -1
+1/huo_00008
+  rotate: false
+  xy: 2, 54
+  size: 155, 96
+  orig: 160, 100
+  offset: 1, 0
+  index: -1
+1/huo_00010
+  rotate: true
+  xy: 100, 152
+  size: 155, 96
+  orig: 160, 100
+  offset: 1, 0
+  index: -1
+1/huo_00011
+  rotate: true
+  xy: 295, 134
+  size: 155, 95
+  orig: 160, 100
+  offset: 1, 0
+  index: -1
+cg
+  rotate: false
+  xy: 318, 291
+  size: 87, 114
+  orig: 103, 129
+  offset: 8, 8
+  index: -1
+lizi
+  rotate: false
+  xy: 2, 26
+  size: 15, 26
+  orig: 16, 27
+  offset: 0, 1
+  index: -1
+yw
+  rotate: false
+  xy: 159, 76
+  size: 76, 74
+  orig: 78, 80
+  offset: 0, 3
+  index: -1

@@ -1,0 +1,62 @@
+
+q_s.png
+size: 388,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stone/st_00
+  rotate: true
+  xy: 317, 212
+  size: 67, 69
+  orig: 132, 120
+  offset: 63, 0
+  index: -1
+stone/st_02
+  rotate: false
+  xy: 228, 195
+  size: 87, 84
+  orig: 132, 120
+  offset: 38, 9
+  index: -1
+stone/st_04
+  rotate: false
+  xy: 124, 184
+  size: 102, 97
+  orig: 132, 120
+  offset: 21, 15
+  index: -1
+stone/st_06
+  rotate: false
+  xy: 2, 180
+  size: 102, 97
+  orig: 132, 120
+  offset: 20, 18
+  index: -1
+stone/st_08
+  rotate: false
+  xy: 124, 283
+  size: 112, 103
+  orig: 132, 120
+  offset: 10, 14
+  index: -1
+stone/st_10
+  rotate: false
+  xy: 2, 279
+  size: 120, 107
+  orig: 132, 120
+  offset: 1, 11
+  index: -1
+stone/st_12
+  rotate: false
+  xy: 238, 281
+  size: 108, 105
+  orig: 132, 120
+  offset: 12, 14
+  index: -1
+yw
+  rotate: false
+  xy: 348, 350
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1

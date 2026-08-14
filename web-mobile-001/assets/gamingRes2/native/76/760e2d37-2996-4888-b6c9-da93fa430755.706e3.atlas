@@ -1,0 +1,13 @@
+
+gy.png
+size: 128,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gg
+  rotate: false
+  xy: 2, 2
+  size: 123, 130
+  orig: 144, 144
+  offset: 13, 3
+  index: -1

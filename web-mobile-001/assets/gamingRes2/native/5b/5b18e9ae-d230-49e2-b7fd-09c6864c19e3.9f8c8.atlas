@@ -1,0 +1,27 @@
+
+jinguang.png
+size: 86,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jd
+  rotate: false
+  xy: 2, 2
+  size: 73, 61
+  orig: 74, 63
+  offset: 1, 1
+  index: -1
+jq
+  rotate: false
+  xy: 2, 65
+  size: 79, 69
+  orig: 82, 72
+  offset: 1, 2
+  index: -1
+jx
+  rotate: false
+  xy: 2, 136
+  size: 82, 83
+  orig: 82, 83
+  offset: 0, 0
+  index: -1

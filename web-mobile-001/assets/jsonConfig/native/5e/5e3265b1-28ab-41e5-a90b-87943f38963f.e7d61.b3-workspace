@@ -1,0 +1,17 @@
+{
+  "files": [
+    {
+      "path": "example.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/common.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/thd_claw.json",
+      "desc": ""
+    }
+  ],
+  "settings": {}
+}

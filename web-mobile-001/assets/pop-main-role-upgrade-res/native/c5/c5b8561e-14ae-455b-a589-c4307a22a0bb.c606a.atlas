@@ -1,0 +1,104 @@
+
+shengxing.png
+size: 676,676
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+05
+  rotate: false
+  xy: 304, 579
+  size: 92, 94
+  orig: 92, 94
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 67
+  size: 171, 304
+  orig: 175, 309
+  offset: 2, 0
+  index: -1
+5-1
+  rotate: false
+  xy: 270, 84
+  size: 171, 287
+  orig: 175, 309
+  offset: 2, 6
+  index: -1
+6
+  rotate: false
+  xy: 109, 35
+  size: 159, 30
+  orig: 173, 39
+  offset: 6, 2
+  index: -1
+7
+  rotate: false
+  xy: 2, 2
+  size: 110, 12
+  orig: 116, 18
+  offset: 1, 4
+  index: -1
+8-0001
+  rotate: false
+  xy: 114, 9
+  size: 102, 24
+  orig: 146, 92
+  offset: 24, 0
+  index: -1
+8-0002
+  rotate: false
+  xy: 2, 16
+  size: 105, 49
+  orig: 146, 92
+  offset: 22, 0
+  index: -1
+8-0003
+  rotate: false
+  xy: 270, 14
+  size: 107, 68
+  orig: 146, 92
+  offset: 22, 0
+  index: -1
+8-0004
+  rotate: true
+  xy: 175, 133
+  size: 114, 85
+  orig: 146, 92
+  offset: 26, 0
+  index: -1
+8-0005
+  rotate: true
+  xy: 175, 249
+  size: 122, 92
+  orig: 146, 92
+  offset: 23, 0
+  index: -1
+8-0006
+  rotate: true
+  xy: 304, 480
+  size: 97, 87
+  orig: 146, 92
+  offset: 24, 0
+  index: -1
+8-0007
+  rotate: true
+  xy: 304, 390
+  size: 88, 83
+  orig: 146, 92
+  offset: 32, 0
+  index: -1
+8-0008
+  rotate: true
+  xy: 175, 80
+  size: 51, 68
+  orig: 146, 92
+  offset: 50, 1
+  index: -1
+kuosan_00000
+  rotate: false
+  xy: 2, 373
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1

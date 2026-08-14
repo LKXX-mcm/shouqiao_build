@@ -1,0 +1,55 @@
+
+laohuchouj.png
+size: 379,379
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dibai
+  rotate: false
+  xy: 2, 196
+  size: 138, 181
+  orig: 139, 182
+  offset: 1, 0
+  index: -1
+dijin
+  rotate: false
+  xy: 142, 212
+  size: 122, 165
+  orig: 122, 165
+  offset: 0, 0
+  index: -1
+g0
+  rotate: false
+  xy: 153, 38
+  size: 131, 131
+  orig: 139, 139
+  offset: 4, 4
+  index: -1
+g1
+  rotate: false
+  xy: 2, 45
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+jt
+  rotate: false
+  xy: 2, 15
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+wjx
+  rotate: true
+  xy: 266, 239
+  size: 138, 111
+  orig: 141, 115
+  offset: 2, 2
+  index: -1
+xd
+  rotate: true
+  xy: 266, 171
+  size: 66, 67
+  orig: 77, 77
+  offset: 6, 5
+  index: -1

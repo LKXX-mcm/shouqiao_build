@@ -1,0 +1,146 @@
+
+kuang_tx.png
+size: 872,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 439, 4
+  size: 134, 115
+  orig: 150, 150
+  offset: 5, 16
+  index: -1
+10
+  rotate: false
+  xy: 271, 139
+  size: 139, 143
+  orig: 150, 150
+  offset: 4, 6
+  index: -1
+1黄金小闪电/sd_02_01
+  rotate: false
+  xy: 673, 154
+  size: 66, 42
+  orig: 128, 128
+  offset: 36, 67
+  index: -1
+1黄金小闪电/sd_02_02
+  rotate: true
+  xy: 672, 57
+  size: 85, 60
+  orig: 128, 128
+  offset: 20, 55
+  index: -1
+1黄金小闪电/sd_02_03
+  rotate: true
+  xy: 673, 198
+  size: 84, 73
+  orig: 128, 128
+  offset: 18, 32
+  index: -1
+1黄金小闪电/sd_02_04
+  rotate: true
+  xy: 734, 69
+  size: 83, 82
+  orig: 128, 128
+  offset: 19, 22
+  index: -1
+1黄金小闪电/sd_02_05
+  rotate: true
+  xy: 784, 2
+  size: 65, 80
+  orig: 128, 128
+  offset: 21, 25
+  index: -1
+1黄金小闪电/sd_02_06
+  rotate: false
+  xy: 806, 203
+  size: 63, 79
+  orig: 128, 128
+  offset: 20, 26
+  index: -1
+1黄金小闪电/sd_02_07
+  rotate: false
+  xy: 748, 200
+  size: 56, 82
+  orig: 128, 128
+  offset: 19, 23
+  index: -1
+1黄金小闪电/sd_02_08
+  rotate: true
+  xy: 672, 2
+  size: 53, 57
+  orig: 128, 128
+  offset: 26, 26
+  index: -1
+2
+  rotate: true
+  xy: 556, 144
+  size: 138, 115
+  orig: 150, 150
+  offset: 4, 16
+  index: -1
+3
+  rotate: true
+  xy: 556, 8
+  size: 134, 114
+  orig: 150, 150
+  offset: 6, 18
+  index: -1
+4
+  rotate: false
+  xy: 412, 140
+  size: 142, 142
+  orig: 150, 150
+  offset: 7, 3
+  index: -1
+5
+  rotate: true
+  xy: 296, 3
+  size: 134, 141
+  orig: 150, 150
+  offset: 9, 5
+  index: -1
+6
+  rotate: false
+  xy: 145, 137
+  size: 124, 145
+  orig: 150, 150
+  offset: 13, 0
+  index: -1
+7
+  rotate: true
+  xy: 149, 17
+  size: 118, 145
+  orig: 150, 150
+  offset: 13, 0
+  index: -1
+8
+  rotate: true
+  xy: 2, 4
+  size: 128, 145
+  orig: 150, 150
+  offset: 14, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 134
+  size: 141, 148
+  orig: 150, 150
+  offset: 3, 0
+  index: -1
+dg
+  rotate: false
+  xy: 741, 167
+  size: 29, 29
+  orig: 31, 32
+  offset: 1, 1
+  index: -1
+lizi
+  rotate: false
+  xy: 731, 4
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1

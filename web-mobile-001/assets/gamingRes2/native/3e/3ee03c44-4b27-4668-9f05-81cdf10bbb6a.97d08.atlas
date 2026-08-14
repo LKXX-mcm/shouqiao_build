@@ -1,0 +1,69 @@
+
+5.png
+size: 363,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tou
+  rotate: false
+  xy: 168, 117
+  size: 86, 117
+  orig: 86, 118
+  offset: 0, 1
+  index: -1
+yaling
+  rotate: false
+  xy: 266, 177
+  size: 85, 57
+  orig: 87, 59
+  offset: 1, 1
+  index: -1
+youjiao
+  rotate: false
+  xy: 76, 45
+  size: 62, 76
+  orig: 62, 76
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 12, 10
+  size: 52, 111
+  orig: 55, 111
+  offset: 3, 0
+  index: -1
+yy
+  rotate: false
+  xy: 266, 130
+  size: 70, 37
+  orig: 72, 39
+  offset: 1, 1
+  index: -1
+zuojiao
+  rotate: true
+  xy: 150, 46
+  size: 61, 77
+  orig: 61, 77
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 239, 55
+  size: 52, 111
+  orig: 52, 111
+  offset: 0, 0
+  index: -1
+图层 1
+  rotate: false
+  xy: 12, 131
+  size: 144, 103
+  orig: 144, 103
+  offset: 0, 0
+  index: -1
+图层 2
+  rotate: false
+  xy: 239, 12
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1

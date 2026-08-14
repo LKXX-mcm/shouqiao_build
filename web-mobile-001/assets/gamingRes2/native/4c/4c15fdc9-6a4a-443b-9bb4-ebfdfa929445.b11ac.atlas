@@ -1,0 +1,111 @@
+
+huode.png
+size: 316,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dg
+  rotate: false
+  xy: 132, 205
+  size: 109, 109
+  orig: 128, 129
+  offset: 10, 11
+  index: -1
+images/4黄色电/xiaoshandian_00001
+  rotate: false
+  xy: 15, 164
+  size: 47, 33
+  orig: 115, 108
+  offset: 38, 7
+  index: -1
+images/4黄色电/xiaoshandian_00003
+  rotate: false
+  xy: 231, 94
+  size: 80, 74
+  orig: 115, 108
+  offset: 17, 6
+  index: -1
+images/4黄色电/xiaoshandian_00006
+  rotate: false
+  xy: 177, 13
+  size: 97, 79
+  orig: 115, 108
+  offset: 11, 6
+  index: -1
+images/4黄色电/xiaoshandian_00008
+  rotate: false
+  xy: 243, 170
+  size: 62, 76
+  orig: 115, 108
+  offset: 15, 7
+  index: -1
+images/4黄色电/xiaoshandian_00010
+  rotate: false
+  xy: 132, 117
+  size: 97, 86
+  orig: 115, 108
+  offset: 9, 14
+  index: -1
+images/4黄色电/xiaoshandian_00012
+  rotate: false
+  xy: 2, 8
+  size: 3, 3
+  orig: 115, 108
+  offset: 58, 30
+  index: -1
+images/4黄色电/xiaoshandian_00014
+  rotate: true
+  xy: 82, 161
+  size: 36, 44
+  orig: 115, 108
+  offset: 8, 46
+  index: -1
+images/cg
+  rotate: true
+  xy: 82, 2
+  size: 95, 93
+  orig: 105, 104
+  offset: 5, 5
+  index: -1
+images/gy2
+  rotate: false
+  xy: 15, 199
+  size: 115, 115
+  orig: 128, 128
+  offset: 7, 5
+  index: -1
+images/lizi
+  rotate: false
+  xy: 64, 182
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+images/sg
+  rotate: false
+  xy: 2, 13
+  size: 78, 148
+  orig: 80, 152
+  offset: 1, 0
+  index: -1
+images/shug
+  rotate: false
+  xy: 2, 163
+  size: 11, 151
+  orig: 11, 153
+  offset: 0, 1
+  index: -1
+liushui
+  rotate: false
+  xy: 82, 99
+  size: 43, 60
+  orig: 43, 61
+  offset: 0, 1
+  index: -1
+quan
+  rotate: false
+  xy: 243, 248
+  size: 66, 66
+  orig: 68, 68
+  offset: 1, 1
+  index: -1

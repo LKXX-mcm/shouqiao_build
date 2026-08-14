@@ -1,0 +1,174 @@
+
+jgsn_bei.png
+size: 480,497
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dao
+  rotate: false
+  xy: 12, 346
+  size: 134, 141
+  orig: 136, 141
+  offset: 1, 0
+  index: -1
+g
+  rotate: false
+  xy: 410, 269
+  size: 48, 48
+  orig: 52, 52
+  offset: 2, 2
+  index: -1
+houbai
+  rotate: true
+  xy: 110, 93
+  size: 78, 69
+  orig: 79, 70
+  offset: 0, 0
+  index: -1
+images/gh_01
+  rotate: false
+  xy: 158, 382
+  size: 106, 105
+  orig: 154, 154
+  offset: 24, 25
+  index: -1
+images/gh_02
+  rotate: false
+  xy: 276, 382
+  size: 105, 105
+  orig: 154, 154
+  offset: 24, 25
+  index: -1
+images/gh_03
+  rotate: false
+  xy: 199, 268
+  size: 102, 104
+  orig: 154, 154
+  offset: 26, 24
+  index: -1
+images/gh_04
+  rotate: false
+  xy: 94, 230
+  size: 93, 106
+  orig: 154, 154
+  offset: 37, 23
+  index: -1
+jian
+  rotate: false
+  xy: 94, 181
+  size: 78, 39
+  orig: 78, 40
+  offset: 0, 1
+  index: -1
+jian2
+  rotate: false
+  xy: 158, 361
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+qk/qk_00001
+  rotate: false
+  xy: 191, 129
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+qk/qk_00002
+  rotate: false
+  xy: 200, 42
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+qk/qk_00005
+  rotate: false
+  xy: 280, 129
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+qk/qk_00006
+  rotate: false
+  xy: 289, 42
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+qk/qk_00013
+  rotate: false
+  xy: 393, 410
+  size: 75, 77
+  orig: 77, 77
+  offset: 2, 0
+  index: -1
+qk/qk_00015
+  rotate: false
+  xy: 369, 186
+  size: 71, 73
+  orig: 77, 77
+  offset: 5, 1
+  index: -1
+shen
+  rotate: false
+  xy: 378, 23
+  size: 71, 70
+  orig: 74, 70
+  offset: 3, 0
+  index: -1
+tou
+  rotate: true
+  xy: 110, 10
+  size: 73, 78
+  orig: 74, 88
+  offset: 0, 10
+  index: -1
+toufa
+  rotate: false
+  xy: 12, 61
+  size: 86, 110
+  orig: 86, 110
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 410, 327
+  size: 47, 73
+  orig: 47, 73
+  offset: 0, 0
+  index: -1
+tui 拷贝
+  rotate: true
+  xy: 313, 272
+  size: 100, 85
+  orig: 100, 85
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 12, 181
+  size: 70, 155
+  orig: 71, 155
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 378, 103
+  size: 73, 66
+  orig: 73, 66
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 199, 216
+  size: 85, 42
+  orig: 89, 44
+  offset: 2, 1
+  index: -1
+zuoshou
+  rotate: false
+  xy: 12, 23
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

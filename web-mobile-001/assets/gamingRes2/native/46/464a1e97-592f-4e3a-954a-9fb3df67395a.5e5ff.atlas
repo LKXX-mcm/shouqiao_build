@@ -1,0 +1,41 @@
+
+daiji.png
+size: 344,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: true
+  xy: 68, 1
+  size: 45, 143
+  orig: 154, 154
+  offset: 57, 6
+  index: -1
+wuqi
+  rotate: true
+  xy: 211, 3
+  size: 43, 123
+  orig: 47, 127
+  offset: 1, 0
+  index: -1
+zibd
+  rotate: true
+  xy: 0, 0
+  size: 46, 68
+  orig: 50, 73
+  offset: 2, 1
+  index: -1
+zibs2
+  rotate: false
+  xy: 334, 28
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+zibtu
+  rotate: false
+  xy: 334, 35
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,223 @@
+
+zsdd.png
+size: 884,884
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ddd
+  rotate: false
+  xy: 773, 431
+  size: 104, 188
+  orig: 104, 188
+  offset: 0, 0
+  index: -1
+ddd2
+  rotate: false
+  xy: 773, 241
+  size: 104, 188
+  orig: 104, 188
+  offset: 0, 0
+  index: -1
+ddd3
+  rotate: true
+  xy: 577, 320
+  size: 104, 188
+  orig: 104, 188
+  offset: 0, 0
+  index: -1
+dg
+  rotate: false
+  xy: 487, 418
+  size: 88, 88
+  orig: 103, 104
+  offset: 8, 8
+  index: -1
+hg
+  rotate: true
+  xy: 487, 289
+  size: 77, 78
+  orig: 91, 90
+  offset: 7, 6
+  index: -1
+huo/1
+  rotate: true
+  xy: 459, 4
+  size: 47, 72
+  orig: 54, 92
+  offset: 3, 4
+  index: -1
+huo/11
+  rotate: true
+  xy: 390, 3
+  size: 48, 67
+  orig: 54, 92
+  offset: 1, 2
+  index: -1
+huo/3
+  rotate: true
+  xy: 796, 697
+  size: 49, 82
+  orig: 54, 92
+  offset: 2, 4
+  index: -1
+huo/5
+  rotate: true
+  xy: 796, 829
+  size: 53, 86
+  orig: 54, 92
+  offset: 0, 4
+  index: -1
+huo/7
+  rotate: true
+  xy: 487, 235
+  size: 52, 74
+  orig: 54, 92
+  offset: 0, 3
+  index: -1
+huo/9
+  rotate: true
+  xy: 487, 368
+  size: 48, 80
+  orig: 54, 92
+  offset: 5, 3
+  index: -1
+jineng_biaoji
+  rotate: false
+  xy: 749, 119
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+long_lizi
+  rotate: true
+  xy: 505, 643
+  size: 17, 45
+  orig: 18, 46
+  offset: 1, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 559, 14
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+yw1
+  rotate: false
+  xy: 471, 627
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+爆炸/dl-animation_00
+  rotate: false
+  xy: 471, 508
+  size: 108, 111
+  orig: 287, 247
+  offset: 89, 66
+  index: -1
+爆炸/dl-animation_01
+  rotate: false
+  xy: 264, 506
+  size: 205, 154
+  orig: 287, 247
+  offset: 43, 43
+  index: -1
+爆炸/dl-animation_02
+  rotate: true
+  xy: 581, 426
+  size: 234, 190
+  orig: 287, 247
+  offset: 21, 28
+  index: -1
+爆炸/dl-animation_03
+  rotate: true
+  xy: 198, 11
+  size: 240, 190
+  orig: 287, 247
+  offset: 21, 28
+  index: -1
+爆炸/dl-animation_04
+  rotate: false
+  xy: 270, 662
+  size: 263, 220
+  orig: 287, 247
+  offset: 5, 14
+  index: -1
+爆炸/dl-animation_05
+  rotate: false
+  xy: 535, 662
+  size: 259, 220
+  orig: 287, 247
+  offset: 5, 14
+  index: -1
+爆炸/dl-animation_06
+  rotate: true
+  xy: 2, 7
+  size: 244, 194
+  orig: 287, 247
+  offset: 32, 45
+  index: -1
+爆炸/dl-animation_07
+  rotate: true
+  xy: 2, 253
+  size: 249, 195
+  orig: 287, 247
+  offset: 34, 37
+  index: -1
+爆炸/dl-animation_08
+  rotate: false
+  xy: 2, 504
+  size: 260, 201
+  orig: 287, 247
+  offset: 27, 34
+  index: -1
+爆炸/dl-animation_09
+  rotate: false
+  xy: 2, 707
+  size: 266, 175
+  orig: 287, 247
+  offset: 21, 62
+  index: -1
+爆炸/dl-animation_10
+  rotate: true
+  xy: 199, 266
+  size: 236, 142
+  orig: 287, 247
+  offset: 18, 68
+  index: -1
+爆炸/dl-animation_11
+  rotate: true
+  xy: 343, 268
+  size: 236, 142
+  orig: 287, 247
+  offset: 18, 68
+  index: -1
+爆炸/dl-animation_12
+  rotate: false
+  xy: 567, 151
+  size: 180, 167
+  orig: 287, 247
+  offset: 26, 53
+  index: -1
+爆炸/dl-animation_13
+  rotate: true
+  xy: 390, 53
+  size: 180, 167
+  orig: 287, 247
+  offset: 26, 53
+  index: -1
+爆炸/dl-animation_14
+  rotate: true
+  xy: 796, 748
+  size: 79, 85
+  orig: 287, 247
+  offset: 102, 77
+  index: -1
+爆炸/dl-animation_15
+  rotate: true
+  xy: 796, 621
+  size: 74, 80
+  orig: 287, 247
+  offset: 104, 80
+  index: -1

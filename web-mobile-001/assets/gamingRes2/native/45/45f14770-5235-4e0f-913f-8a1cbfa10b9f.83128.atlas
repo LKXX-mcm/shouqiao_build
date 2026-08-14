@@ -1,0 +1,139 @@
+
+9_bei.png
+size: 464,386
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G
+  rotate: false
+  xy: 12, 172
+  size: 204, 204
+  orig: 228, 228
+  offset: 12, 12
+  index: -1
+erhuan
+  rotate: false
+  xy: 433, 302
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+fa1
+  rotate: false
+  xy: 168, 23
+  size: 110, 139
+  orig: 110, 139
+  offset: 0, 0
+  index: -1
+images/ranshao_01
+  rotate: true
+  xy: 351, 181
+  size: 44, 101
+  orig: 86, 128
+  offset: 21, 8
+  index: -1
+images/ranshao_02
+  rotate: true
+  xy: 351, 128
+  size: 43, 101
+  orig: 85, 128
+  offset: 19, 9
+  index: -1
+images/ranshao_03
+  rotate: true
+  xy: 349, 235
+  size: 49, 101
+  orig: 86, 128
+  offset: 14, 9
+  index: -1
+images/ranshao_04
+  rotate: true
+  xy: 228, 231
+  size: 46, 109
+  orig: 86, 128
+  offset: 19, 9
+  index: -1
+images/ranshao_05
+  rotate: true
+  xy: 228, 176
+  size: 45, 111
+  orig: 85, 128
+  offset: 20, 9
+  index: -1
+images/ranshao_06
+  rotate: true
+  xy: 312, 331
+  size: 45, 109
+  orig: 86, 128
+  offset: 20, 9
+  index: -1
+ping
+  rotate: false
+  xy: 378, 295
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+rsp
+  rotate: true
+  xy: 312, 294
+  size: 27, 54
+  orig: 27, 55
+  offset: 0, 1
+  index: -1
+shen
+  rotate: true
+  xy: 228, 287
+  size: 89, 72
+  orig: 89, 72
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 12, 10
+  size: 152, 144
+  orig: 152, 147
+  offset: 0, 3
+  index: -1
+tun
+  rotate: true
+  xy: 290, 91
+  size: 75, 36
+  orig: 75, 36
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 348, 74
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 415, 66
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 433, 342
+  size: 34, 18
+  orig: 36, 20
+  offset: 1, 1
+  index: -1
+zuoshou
+  rotate: false
+  xy: 290, 24
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 348, 27
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1

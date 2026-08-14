@@ -1,0 +1,27 @@
+
+liubei_qiang.png
+size: 323,257
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+g
+  rotate: true
+  xy: 300, 31
+  size: 85, 11
+  orig: 85, 11
+  offset: 0, 0
+  index: -1
+q
+  rotate: true
+  xy: 12, 10
+  size: 106, 276
+  orig: 106, 276
+  offset: 0, 0
+  index: -1
+q2
+  rotate: true
+  xy: 12, 126
+  size: 121, 291
+  orig: 122, 292
+  offset: 0, 1
+  index: -1

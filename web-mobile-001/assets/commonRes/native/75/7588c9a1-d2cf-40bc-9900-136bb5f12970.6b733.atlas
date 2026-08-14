@@ -1,0 +1,27 @@
+
+anniu.png
+size: 376,152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g
+  rotate: false
+  xy: 310, 39
+  size: 63, 109
+  orig: 76, 109
+  offset: 7, 0
+  index: -1
+kaizhan
+  rotate: false
+  xy: 2, 14
+  size: 306, 134
+  orig: 306, 134
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 310, 2
+  size: 35, 35
+  orig: 37, 37
+  offset: 1, 1
+  index: -1

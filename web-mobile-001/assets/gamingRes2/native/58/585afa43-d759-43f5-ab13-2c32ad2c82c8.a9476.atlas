@@ -1,0 +1,104 @@
+
+ssz_jy.png
+size: 276,812
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/1
+  rotate: false
+  xy: 158, 2
+  size: 116, 86
+  orig: 121, 94
+  offset: 1, 5
+  index: -1
+atk/2
+  rotate: false
+  xy: 2, 52
+  size: 154, 122
+  orig: 158, 128
+  offset: 2, 3
+  index: -1
+atk/3
+  rotate: false
+  xy: 2, 323
+  size: 193, 143
+  orig: 198, 149
+  offset: 0, 2
+  index: -1
+atk/4
+  rotate: false
+  xy: 2, 176
+  size: 183, 145
+  orig: 195, 145
+  offset: 12, 0
+  index: -1
+hb
+  rotate: true
+  xy: 187, 90
+  size: 182, 87
+  orig: 182, 87
+  offset: 0, 0
+  index: -1
+l_er
+  rotate: true
+  xy: 206, 474
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+r_er
+  rotate: true
+  xy: 206, 529
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 2, 585
+  size: 225, 246
+  orig: 225, 246
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 2, 468
+  size: 202, 115
+  orig: 214, 127
+  offset: 6, 6
+  index: -1
+yj_g
+  rotate: false
+  xy: 2, 18
+  size: 118, 32
+  orig: 118, 32
+  offset: 0, 0
+  index: -1
+yt
+  rotate: true
+  xy: 197, 336
+  size: 58, 71
+  orig: 59, 71
+  offset: 0, 0
+  index: -1
+yw
+  rotate: false
+  xy: 250, 784
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+zhuti
+  rotate: false
+  xy: 197, 274
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+zt
+  rotate: false
+  xy: 206, 396
+  size: 60, 76
+  orig: 60, 82
+  offset: 0, 0
+  index: -1

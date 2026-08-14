@@ -1,0 +1,20 @@
+
+chujifeibiao.png
+size: 228,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fang - 副本
+  rotate: true
+  xy: 2, 2
+  size: 96, 98
+  orig: 100, 100
+  offset: 2, 1
+  index: -1
+fb1
+  rotate: false
+  xy: 2, 100
+  size: 123, 124
+  orig: 124, 124
+  offset: 1, 0
+  index: -1

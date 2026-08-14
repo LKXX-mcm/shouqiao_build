@@ -1,0 +1,83 @@
+
+btc_s.png
+size: 588,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biti
+  rotate: true
+  xy: 288, 13
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+shetou
+  rotate: false
+  xy: 510, 55
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 2
+  size: 210, 208
+  orig: 210, 208
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 214, 57
+  size: 110, 153
+  orig: 110, 153
+  offset: 0, 0
+  index: -1
+tx/1
+  rotate: false
+  xy: 214, 2
+  size: 72, 53
+  orig: 131, 93
+  offset: 28, 19
+  index: -1
+tx/2
+  rotate: true
+  xy: 441, 6
+  size: 87, 63
+  orig: 131, 93
+  offset: 19, 13
+  index: -1
+tx/3
+  rotate: true
+  xy: 510, 114
+  size: 96, 76
+  orig: 131, 93
+  offset: 16, 9
+  index: -1
+tx/4
+  rotate: true
+  xy: 326, 92
+  size: 118, 88
+  orig: 131, 93
+  offset: 7, 1
+  index: -1
+tx/5
+  rotate: false
+  xy: 326, 2
+  size: 113, 88
+  orig: 131, 93
+  offset: 7, 2
+  index: -1
+tx/6
+  rotate: true
+  xy: 416, 95
+  size: 115, 92
+  orig: 131, 93
+  offset: 7, 0
+  index: -1
+yeti
+  rotate: false
+  xy: 288, 24
+  size: 18, 31
+  orig: 19, 32
+  offset: 1, 0
+  index: -1

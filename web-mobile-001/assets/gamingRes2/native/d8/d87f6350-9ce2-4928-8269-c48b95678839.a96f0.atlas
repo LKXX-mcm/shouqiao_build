@@ -1,0 +1,76 @@
+
+chuizi2.png
+size: 272,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big_g
+  rotate: false
+  xy: 2, 16
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuizi2
+  rotate: false
+  xy: 2, 114
+  size: 97, 156
+  orig: 97, 156
+  offset: 0, 0
+  index: -1
+tx/2蓝色闪电/sd_02_01
+  rotate: false
+  xy: 100, 12
+  size: 66, 42
+  orig: 128, 128
+  offset: 36, 67
+  index: -1
+tx/2蓝色闪电/sd_02_02
+  rotate: false
+  xy: 183, 77
+  size: 85, 60
+  orig: 128, 128
+  offset: 20, 55
+  index: -1
+tx/2蓝色闪电/sd_02_03
+  rotate: false
+  xy: 186, 197
+  size: 84, 73
+  orig: 128, 128
+  offset: 18, 32
+  index: -1
+tx/2蓝色闪电/sd_02_04
+  rotate: false
+  xy: 101, 188
+  size: 83, 82
+  orig: 128, 128
+  offset: 19, 22
+  index: -1
+tx/2蓝色闪电/sd_02_05
+  rotate: true
+  xy: 101, 121
+  size: 65, 80
+  orig: 128, 128
+  offset: 21, 25
+  index: -1
+tx/2蓝色闪电/sd_02_06
+  rotate: true
+  xy: 101, 56
+  size: 63, 79
+  orig: 128, 128
+  offset: 20, 26
+  index: -1
+tx/2蓝色闪电/sd_02_07
+  rotate: true
+  xy: 186, 139
+  size: 56, 82
+  orig: 128, 128
+  offset: 19, 23
+  index: -1
+tx/2蓝色闪电/sd_02_08
+  rotate: true
+  xy: 182, 22
+  size: 53, 57
+  orig: 128, 128
+  offset: 26, 26
+  index: -1

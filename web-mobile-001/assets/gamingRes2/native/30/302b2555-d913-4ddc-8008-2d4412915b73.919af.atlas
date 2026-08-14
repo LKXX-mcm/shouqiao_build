@@ -1,0 +1,97 @@
+
+4_bei.png
+size: 463,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bian1
+  rotate: true
+  xy: 99, 11
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: -1
+bian2
+  rotate: false
+  xy: 364, 145
+  size: 87, 116
+  orig: 87, 116
+  offset: 0, 0
+  index: -1
+fa
+  rotate: false
+  xy: 356, 15
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+fa1
+  rotate: false
+  xy: 372, 65
+  size: 36, 70
+  orig: 36, 73
+  offset: 0, 3
+  index: -1
+fa2
+  rotate: false
+  xy: 420, 71
+  size: 31, 64
+  orig: 31, 64
+  offset: 0, 0
+  index: -1
+lun
+  rotate: false
+  xy: 12, 105
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+shen
+  rotate: true
+  xy: 12, 10
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 180, 135
+  size: 172, 126
+  orig: 173, 126
+  offset: 0, 0
+  index: -1
+tun
+  rotate: false
+  xy: 225, 80
+  size: 75, 45
+  orig: 75, 45
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 312, 61
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 225, 10
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 410, 21
+  size: 34, 18
+  orig: 36, 20
+  offset: 1, 1
+  index: -1
+zuotui
+  rotate: true
+  xy: 280, 11
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1

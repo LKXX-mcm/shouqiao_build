@@ -1,0 +1,27 @@
+
+sxt.png
+size: 712,56
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dg
+  rotate: false
+  xy: 2, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+G
+  rotate: false
+  xy: 54, 5
+  size: 620, 47
+  orig: 620, 47
+  offset: 0, 0
+  index: -1
+xx
+  rotate: true
+  xy: 676, 18
+  size: 34, 33
+  orig: 36, 35
+  offset: 1, 1
+  index: -1

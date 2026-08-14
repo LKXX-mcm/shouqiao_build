@@ -1,0 +1,153 @@
+
+l_tou.png
+size: 840,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dg
+  rotate: false
+  xy: 620, 17
+  size: 61, 62
+  orig: 72, 72
+  offset: 6, 5
+  index: -1
+l_g1
+  rotate: false
+  xy: 654, 82
+  size: 31, 49
+  orig: 35, 54
+  offset: 2, 3
+  index: -1
+l_tou
+  rotate: true
+  xy: 2, 9
+  size: 245, 314
+  orig: 247, 316
+  offset: 1, 1
+  index: -1
+l_tou2
+  rotate: true
+  xy: 318, 66
+  size: 188, 126
+  orig: 191, 128
+  offset: 1, 1
+  index: -1
+l_tou_di
+  rotate: true
+  xy: 446, 75
+  size: 179, 115
+  orig: 179, 115
+  offset: 0, 0
+  index: -1
+l_yan
+  rotate: false
+  xy: 654, 133
+  size: 88, 121
+  orig: 90, 123
+  offset: 1, 1
+  index: -1
+l_yjg
+  rotate: true
+  xy: 563, 81
+  size: 173, 89
+  orig: 179, 95
+  offset: 3, 3
+  index: -1
+lizi
+  rotate: false
+  xy: 784, 98
+  size: 25, 37
+  orig: 26, 40
+  offset: 1, 2
+  index: -1
+nz1
+  rotate: true
+  xy: 683, 2
+  size: 78, 59
+  orig: 78, 59
+  offset: 0, 0
+  index: -1
+nz2
+  rotate: true
+  xy: 504, 6
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+nz3
+  rotate: false
+  xy: 318, 2
+  size: 104, 62
+  orig: 104, 62
+  offset: 0, 0
+  index: -1
+yan_g
+  rotate: true
+  xy: 687, 89
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+zi_yw
+  rotate: false
+  xy: 802, 219
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+小爆炸/baozha1_0
+  rotate: false
+  xy: 802, 199
+  size: 23, 18
+  orig: 95, 95
+  offset: 39, 27
+  index: -1
+小爆炸/baozha1_1
+  rotate: true
+  xy: 564, 6
+  size: 73, 54
+  orig: 95, 95
+  offset: 13, 20
+  index: -1
+小爆炸/baozha1_2
+  rotate: false
+  xy: 424, 2
+  size: 78, 62
+  orig: 95, 95
+  offset: 10, 16
+  index: -1
+小爆炸/baozha1_3
+  rotate: true
+  xy: 744, 6
+  size: 84, 57
+  orig: 95, 95
+  offset: 7, 17
+  index: -1
+小爆炸/baozha1_4
+  rotate: true
+  xy: 744, 196
+  size: 58, 56
+  orig: 95, 95
+  offset: 18, 22
+  index: -1
+小爆炸/baozha1_5
+  rotate: false
+  xy: 744, 137
+  size: 55, 57
+  orig: 95, 95
+  offset: 22, 22
+  index: -1
+小爆炸/baozha1_6
+  rotate: false
+  xy: 729, 92
+  size: 53, 39
+  orig: 95, 95
+  offset: 21, 21
+  index: -1
+小爆炸/baozha1_7
+  rotate: true
+  xy: 801, 139
+  size: 55, 34
+  orig: 95, 95
+  offset: 20, 27
+  index: -1

@@ -1,0 +1,55 @@
+
+fr.png
+size: 252,412
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cs/fb
+  rotate: false
+  xy: 132, 124
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+cs/h1
+  rotate: false
+  xy: 2, 29
+  size: 122, 122
+  orig: 131, 130
+  offset: 4, 2
+  index: -1
+cs/h2
+  rotate: false
+  xy: 2, 280
+  size: 129, 127
+  orig: 131, 130
+  offset: 1, 1
+  index: -1
+cs/h3
+  rotate: false
+  xy: 2, 153
+  size: 128, 125
+  orig: 131, 130
+  offset: 1, 4
+  index: -1
+cs/h4
+  rotate: true
+  xy: 133, 289
+  size: 118, 117
+  orig: 131, 130
+  offset: 6, 7
+  index: -1
+cs/h5
+  rotate: true
+  xy: 126, 2
+  size: 120, 122
+  orig: 131, 130
+  offset: 4, 1
+  index: -1
+dg
+  rotate: false
+  xy: 133, 192
+  size: 95, 95
+  orig: 112, 111
+  offset: 8, 8
+  index: -1

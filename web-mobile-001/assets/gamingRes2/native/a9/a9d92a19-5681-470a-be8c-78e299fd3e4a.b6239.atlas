@@ -1,0 +1,41 @@
+
+che.png
+size: 485,485
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+che2
+  rotate: false
+  xy: 2, 283
+  size: 413, 200
+  orig: 413, 200
+  offset: 0, 0
+  index: -1
+luntai
+  rotate: true
+  xy: 417, 159
+  size: 250, 55
+  orig: 250, 55
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 2, 153
+  size: 390, 128
+  orig: 394, 128
+  offset: 2, 0
+  index: -1
+y1
+  rotate: false
+  xy: 417, 444
+  size: 66, 39
+  orig: 69, 41
+  offset: 1, 1
+  index: -1
+y2
+  rotate: false
+  xy: 417, 411
+  size: 59, 31
+  orig: 61, 32
+  offset: 1, 0
+  index: -1

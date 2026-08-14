@@ -1,0 +1,97 @@
+
+laohujiguai.png
+size: 536,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d
+  rotate: false
+  xy: 479, 446
+  size: 29, 26
+  orig: 33, 26
+  offset: 2, 0
+  index: -1
+g1
+  rotate: true
+  xy: 364, 38
+  size: 149, 150
+  orig: 153, 153
+  offset: 2, 2
+  index: -1
+g2
+  rotate: false
+  xy: 2, 121
+  size: 190, 173
+  orig: 191, 174
+  offset: 0, 1
+  index: -1
+g3
+  rotate: false
+  xy: 194, 124
+  size: 168, 170
+  orig: 168, 171
+  offset: 0, 1
+  index: -1
+g4
+  rotate: false
+  xy: 364, 189
+  size: 165, 168
+  orig: 165, 168
+  offset: 0, 0
+  index: -1
+gq
+  rotate: false
+  xy: 2, 64
+  size: 241, 55
+  orig: 241, 55
+  offset: 0, 0
+  index: -1
+gx
+  rotate: false
+  xy: 268, 359
+  size: 167, 175
+  orig: 186, 199
+  offset: 6, 12
+  index: -1
+jy
+  rotate: true
+  xy: 99, 7
+  size: 55, 81
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+jz
+  rotate: true
+  xy: 268, 302
+  size: 55, 85
+  orig: 62, 86
+  offset: 4, 0
+  index: -1
+shen
+  rotate: false
+  xy: 2, 296
+  size: 264, 238
+  orig: 264, 238
+  offset: 0, 0
+  index: -1
+sy
+  rotate: false
+  xy: 437, 474
+  size: 95, 60
+  orig: 95, 60
+  offset: 0, 0
+  index: -1
+sz
+  rotate: false
+  xy: 2, 2
+  size: 95, 60
+  orig: 95, 60
+  offset: 0, 0
+  index: -1
+ying
+  rotate: true
+  xy: 437, 368
+  size: 104, 40
+  orig: 106, 41
+  offset: 1, 0
+  index: -1

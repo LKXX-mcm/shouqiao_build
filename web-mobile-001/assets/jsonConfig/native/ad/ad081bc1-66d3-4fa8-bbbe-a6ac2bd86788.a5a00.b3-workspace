@@ -1,0 +1,105 @@
+{
+  "files": [
+    {
+      "path": "example.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/bucket_1.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/bucket_2.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/bucket_3.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/bucket_4.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/bucket_5.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/common_sdq.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/common.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/digger_zombie.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/dragon_1.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/dragon_2.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/dragon_3.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/dragon_4.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/dragon_5.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/trio_mech_ufo1.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/trio_mech_ufo3.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/trio_mech_ufo5.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/trio_mech_ufo7.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/trio_mech_ufo9.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/trio_mech_zombie10.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/trio_mech_zombie2.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/trio_mech_zombie4.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/trio_mech_zombie6.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/trio_mech_zombie8.json",
+      "desc": ""
+    },
+    {
+      "path": "tree/venom_ghost.json",
+      "desc": ""
+    }
+  ],
+  "settings": {}
+}

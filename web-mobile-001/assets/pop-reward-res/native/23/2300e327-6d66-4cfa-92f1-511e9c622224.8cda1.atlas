@@ -1,0 +1,62 @@
+
+jiesuan.png
+size: 276,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xingxing_01
+  rotate: false
+  xy: 109, 122
+  size: 33, 25
+  orig: 128, 128
+  offset: 48, 51
+  index: -1
+xingxing_02
+  rotate: false
+  xy: 2, 122
+  size: 74, 57
+  orig: 128, 128
+  offset: 25, 36
+  index: -1
+xingxing_03
+  rotate: false
+  xy: 196, 132
+  size: 78, 59
+  orig: 128, 128
+  offset: 24, 35
+  index: -1
+xingxing_04
+  rotate: false
+  xy: 115, 149
+  size: 79, 62
+  orig: 128, 128
+  offset: 24, 33
+  index: -1
+xingxing_05
+  rotate: false
+  xy: 115, 213
+  size: 89, 61
+  orig: 128, 128
+  offset: 20, 33
+  index: -1
+xingxing_06
+  rotate: false
+  xy: 2, 181
+  size: 111, 93
+  orig: 128, 128
+  offset: 8, 16
+  index: -1
+xingxing_07
+  rotate: true
+  xy: 206, 193
+  size: 81, 62
+  orig: 128, 128
+  offset: 26, 31
+  index: -1
+xingxing_08
+  rotate: true
+  xy: 78, 135
+  size: 44, 29
+  orig: 128, 128
+  offset: 42, 49
+  index: -1

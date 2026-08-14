@@ -1,0 +1,139 @@
+
+ptq.png
+size: 508,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceng1
+  rotate: false
+  xy: 2, 259
+  size: 392, 49
+  orig: 392, 49
+  offset: 0, 0
+  index: -1
+ceng1b
+  rotate: false
+  xy: 2, 310
+  size: 388, 49
+  orig: 388, 49
+  offset: 0, 0
+  index: -1
+ceng2
+  rotate: false
+  xy: 2, 361
+  size: 400, 46
+  orig: 400, 46
+  offset: 0, 0
+  index: -1
+ceng2b
+  rotate: false
+  xy: 2, 211
+  size: 353, 46
+  orig: 353, 46
+  offset: 0, 0
+  index: -1
+ci
+  rotate: true
+  xy: 396, 21
+  size: 287, 46
+  orig: 287, 46
+  offset: 0, 0
+  index: -1
+ci2
+  rotate: false
+  xy: 2, 28
+  size: 237, 46
+  orig: 237, 46
+  offset: 0, 0
+  index: -1
+ci2_g
+  rotate: true
+  xy: 444, 57
+  size: 251, 62
+  orig: 253, 64
+  offset: 1, 1
+  index: -1
+ci_g
+  rotate: false
+  xy: 2, 414
+  size: 302, 62
+  orig: 304, 64
+  offset: 1, 1
+  index: -1
+d
+  rotate: false
+  xy: 2, 76
+  size: 167, 133
+  orig: 167, 133
+  offset: 0, 0
+  index: -1
+g
+  rotate: true
+  xy: 241, 55
+  size: 72, 93
+  orig: 74, 95
+  offset: 1, 1
+  index: -1
+hg
+  rotate: false
+  xy: 384, 415
+  size: 16, 15
+  orig: 17, 15
+  offset: 1, 0
+  index: -1
+hg2
+  rotate: false
+  xy: 2, 478
+  size: 421, 28
+  orig: 421, 28
+  offset: 0, 0
+  index: -1
+q
+  rotate: false
+  xy: 317, 138
+  size: 69, 71
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+红电/xiaoshandian_00001
+  rotate: false
+  xy: 444, 22
+  size: 47, 33
+  orig: 115, 108
+  offset: 38, 7
+  index: -1
+红电/xiaoshandian_00003
+  rotate: true
+  xy: 241, 129
+  size: 80, 74
+  orig: 115, 108
+  offset: 17, 6
+  index: -1
+红电/xiaoshandian_00006
+  rotate: true
+  xy: 425, 409
+  size: 97, 79
+  orig: 115, 108
+  offset: 11, 6
+  index: -1
+红电/xiaoshandian_00008
+  rotate: true
+  xy: 306, 414
+  size: 62, 76
+  orig: 115, 108
+  offset: 15, 7
+  index: -1
+红电/xiaoshandian_00010
+  rotate: true
+  xy: 404, 310
+  size: 97, 86
+  orig: 115, 108
+  offset: 9, 14
+  index: -1
+红电/xiaoshandian_00014
+  rotate: false
+  xy: 384, 432
+  size: 36, 44
+  orig: 115, 108
+  offset: 8, 46
+  index: -1

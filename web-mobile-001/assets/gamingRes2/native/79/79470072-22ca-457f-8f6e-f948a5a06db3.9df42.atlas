@@ -1,0 +1,62 @@
+
+shengjihuiz.png
+size: 354,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hd
+  rotate: true
+  xy: 245, 125
+  size: 31, 49
+  orig: 40, 61
+  offset: 6, 5
+  index: -1
+hg
+  rotate: false
+  xy: 243, 13
+  size: 108, 107
+  orig: 123, 133
+  offset: 14, 1
+  index: -1
+hgg1
+  rotate: false
+  xy: 2, 2
+  size: 115, 93
+  orig: 117, 93
+  offset: 0, 0
+  index: -1
+hgg2
+  rotate: false
+  xy: 2, 97
+  size: 114, 180
+  orig: 123, 180
+  offset: 9, 0
+  index: -1
+hgg3
+  rotate: false
+  xy: 118, 122
+  size: 125, 155
+  orig: 126, 175
+  offset: 0, 20
+  index: -1
+hgg4
+  rotate: false
+  xy: 119, 4
+  size: 122, 116
+  orig: 128, 134
+  offset: 2, 9
+  index: -1
+hq
+  rotate: true
+  xy: 322, 151
+  size: 126, 30
+  orig: 126, 30
+  offset: 0, 0
+  index: -1
+huizhang
+  rotate: true
+  xy: 245, 158
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1

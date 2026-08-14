@@ -1,0 +1,90 @@
+
+3_bei.png
+size: 472,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fa
+  rotate: true
+  xy: 12, 12
+  size: 22, 70
+  orig: 22, 70
+  offset: 0, 0
+  index: -1
+gong
+  rotate: false
+  xy: 12, 138
+  size: 257, 84
+  orig: 257, 84
+  offset: 0, 0
+  index: -1
+shen
+  rotate: true
+  xy: 243, 17
+  size: 75, 102
+  orig: 75, 105
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 281, 102
+  size: 120, 120
+  orig: 120, 123
+  offset: 0, 3
+  index: -1
+toufa
+  rotate: true
+  xy: 12, 60
+  size: 68, 219
+  orig: 68, 219
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 12, 44
+  size: 175, 6
+  orig: 175, 6
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 413, 156
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 357, 24
+  size: 37, 68
+  orig: 37, 68
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 94, 16
+  size: 34, 18
+  orig: 36, 20
+  offset: 1, 1
+  index: -1
+zuoshou
+  rotate: true
+  xy: 406, 29
+  size: 49, 27
+  orig: 51, 30
+  offset: 1, 3
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 199, 10
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 413, 88
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1

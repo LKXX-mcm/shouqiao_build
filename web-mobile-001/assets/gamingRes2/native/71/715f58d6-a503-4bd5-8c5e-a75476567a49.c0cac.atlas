@@ -1,0 +1,118 @@
+
+jinbid.png
+size: 794,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dx
+  rotate: true
+  xy: 748, 187
+  size: 92, 44
+  orig: 94, 46
+  offset: 1, 1
+  index: -1
+gggx
+  rotate: false
+  xy: 118, 102
+  size: 175, 177
+  orig: 183, 185
+  offset: 4, 4
+  index: -1
+gqd
+  rotate: true
+  xy: 295, 113
+  size: 166, 75
+  orig: 166, 75
+  offset: 0, 0
+  index: -1
+hd
+  rotate: true
+  xy: 655, 9
+  size: 31, 49
+  orig: 40, 61
+  offset: 6, 5
+  index: -1
+hg
+  rotate: true
+  xy: 313, 3
+  size: 108, 107
+  orig: 123, 133
+  offset: 14, 1
+  index: -1
+hgg1
+  rotate: false
+  xy: 97, 4
+  size: 115, 93
+  orig: 117, 93
+  offset: 0, 0
+  index: -1
+hgg2
+  rotate: false
+  xy: 2, 99
+  size: 114, 180
+  orig: 123, 180
+  offset: 9, 0
+  index: -1
+hgg3
+  rotate: false
+  xy: 490, 124
+  size: 125, 155
+  orig: 126, 175
+  offset: 0, 20
+  index: -1
+hgg4
+  rotate: false
+  xy: 499, 6
+  size: 122, 116
+  orig: 128, 134
+  offset: 2, 9
+  index: -1
+hq
+  rotate: true
+  xy: 623, 22
+  size: 126, 30
+  orig: 126, 30
+  offset: 0, 0
+  index: -1
+huizhang
+  rotate: true
+  xy: 422, 2
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+jbd
+  rotate: true
+  xy: 372, 123
+  size: 156, 116
+  orig: 160, 117
+  offset: 2, 0
+  index: -1
+qqq
+  rotate: true
+  xy: 655, 42
+  size: 106, 103
+  orig: 114, 120
+  offset: 4, 10
+  index: -1
+wen
+  rotate: false
+  xy: 214, 3
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+zhuanp
+  rotate: true
+  xy: 2, 2
+  size: 95, 93
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+zhuanppggg
+  rotate: false
+  xy: 617, 150
+  size: 129, 129
+  orig: 130, 130
+  offset: 1, 1
+  index: -1

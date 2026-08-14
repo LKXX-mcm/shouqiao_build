@@ -1,0 +1,13 @@
+
+xt.png
+size: 496,38
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_di
+  rotate: false
+  xy: 2, 2
+  size: 492, 34
+  orig: 494, 34
+  offset: 1, 0
+  index: -1

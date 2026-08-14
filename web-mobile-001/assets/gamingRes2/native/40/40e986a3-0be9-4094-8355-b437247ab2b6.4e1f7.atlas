@@ -1,0 +1,139 @@
+
+15_bei.png
+size: 925,398
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G
+  rotate: false
+  xy: 480, 184
+  size: 204, 204
+  orig: 228, 228
+  offset: 12, 12
+  index: -1
+chi_l
+  rotate: true
+  xy: 524, 14
+  size: 160, 144
+  orig: 160, 144
+  offset: 0, 0
+  index: -1
+chi_r
+  rotate: true
+  xy: 680, 14
+  size: 160, 144
+  orig: 160, 144
+  offset: 0, 0
+  index: -1
+images/tx_01
+  rotate: true
+  xy: 883, 87
+  size: 23, 30
+  orig: 47, 47
+  offset: 14, 9
+  index: -1
+images/tx_02
+  rotate: false
+  xy: 836, 79
+  size: 35, 31
+  orig: 47, 47
+  offset: 7, 10
+  index: -1
+images/tx_03
+  rotate: true
+  xy: 480, 138
+  size: 36, 32
+  orig: 47, 47
+  offset: 7, 7
+  index: -1
+images/tx_04
+  rotate: false
+  xy: 866, 341
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+images/tx_05
+  rotate: false
+  xy: 866, 284
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+images/tx_06
+  rotate: false
+  xy: 866, 227
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+images/tx_07
+  rotate: false
+  xy: 866, 170
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+jita
+  rotate: true
+  xy: 297, 112
+  size: 276, 171
+  orig: 276, 172
+  offset: 0, 1
+  index: -1
+tou
+  rotate: false
+  xy: 696, 190
+  size: 158, 198
+  orig: 158, 198
+  offset: 0, 0
+  index: -1
+tun
+  rotate: true
+  xy: 414, 38
+  size: 64, 46
+  orig: 64, 46
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 12, 25
+  size: 363, 273
+  orig: 363, 273
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 472, 38
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 414, 10
+  size: 34, 18
+  orig: 36, 20
+  offset: 1, 1
+  index: -1
+zuoshou
+  rotate: false
+  xy: 297, 14
+  size: 49, 88
+  orig: 49, 88
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 836, 120
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+图层 334
+  rotate: false
+  xy: 358, 15
+  size: 44, 87
+  orig: 44, 87
+  offset: 0, 0
+  index: -1

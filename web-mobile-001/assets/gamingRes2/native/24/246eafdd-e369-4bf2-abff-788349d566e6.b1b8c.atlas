@@ -1,0 +1,111 @@
+
+14_bei.png
+size: 376,515
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G
+  rotate: false
+  xy: 160, 301
+  size: 204, 204
+  orig: 228, 228
+  offset: 12, 12
+  index: -1
+dan
+  rotate: false
+  xy: 12, 186
+  size: 136, 319
+  orig: 136, 319
+  offset: 0, 0
+  index: -1
+qi
+  rotate: false
+  xy: 190, 159
+  size: 56, 57
+  orig: 65, 65
+  offset: 7, 5
+  index: -1
+shen
+  rotate: false
+  xy: 285, 223
+  size: 78, 68
+  orig: 78, 68
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 12, 10
+  size: 166, 166
+  orig: 166, 167
+  offset: 0, 1
+  index: -1
+twei/wei_00000
+  rotate: false
+  xy: 313, 26
+  size: 42, 43
+  orig: 51, 51
+  offset: 6, 8
+  index: -1
+twei/wei_00001
+  rotate: false
+  xy: 312, 79
+  size: 46, 46
+  orig: 51, 51
+  offset: 4, 3
+  index: -1
+twei/wei_00002
+  rotate: false
+  xy: 253, 79
+  size: 47, 46
+  orig: 51, 51
+  offset: 3, 0
+  index: -1
+twei/wei_00003
+  rotate: false
+  xy: 253, 26
+  size: 48, 43
+  orig: 51, 51
+  offset: 1, 0
+  index: -1
+wei
+  rotate: false
+  xy: 160, 226
+  size: 113, 65
+  orig: 113, 65
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 190, 92
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 258, 180
+  size: 33, 72
+  orig: 33, 72
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 342, 179
+  size: 34, 18
+  orig: 36, 20
+  offset: 1, 1
+  index: -1
+zuoshou
+  rotate: false
+  xy: 190, 26
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 258, 135
+  size: 35, 70
+  orig: 35, 70
+  offset: 0, 0
+  index: -1

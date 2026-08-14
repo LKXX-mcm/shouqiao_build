@@ -1,0 +1,48 @@
+
+icon-leitai.png
+size: 200,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gu
+  rotate: false
+  xy: 112, 112
+  size: 85, 85
+  orig: 87, 87
+  offset: 1, 1
+  index: -1
+gujia
+  rotate: false
+  xy: 2, 140
+  size: 108, 57
+  orig: 110, 59
+  offset: 1, 1
+  index: -1
+kuosan
+  rotate: true
+  xy: 112, 28
+  size: 82, 77
+  orig: 93, 93
+  offset: 7, 8
+  index: -1
+qiao1
+  rotate: true
+  xy: 35, 19
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+shengbo
+  rotate: false
+  xy: 35, 63
+  size: 75, 75
+  orig: 77, 77
+  offset: 1, 1
+  index: -1
+zi
+  rotate: true
+  xy: 2, 30
+  size: 108, 31
+  orig: 110, 33
+  offset: 1, 1
+  index: -1

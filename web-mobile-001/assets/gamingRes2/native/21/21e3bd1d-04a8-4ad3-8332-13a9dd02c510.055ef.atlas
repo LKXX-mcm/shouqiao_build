@@ -1,0 +1,83 @@
+
+chesxy.png
+size: 496,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+che
+  rotate: false
+  xy: 2, 2
+  size: 221, 200
+  orig: 221, 200
+  offset: 0, 0
+  index: -1
+chedeng
+  rotate: false
+  xy: 225, 9
+  size: 138, 97
+  orig: 151, 111
+  offset: 7, 11
+  index: -1
+cheguang
+  rotate: false
+  xy: 2, 204
+  size: 271, 194
+  orig: 292, 210
+  offset: 6, 13
+  index: -1
+lx1
+  rotate: false
+  xy: 275, 246
+  size: 219, 152
+  orig: 220, 154
+  offset: 1, 1
+  index: -1
+lx2
+  rotate: false
+  xy: 275, 108
+  size: 207, 136
+  orig: 208, 138
+  offset: 0, 1
+  index: -1
+paok
+  rotate: false
+  xy: 402, 57
+  size: 15, 19
+  orig: 17, 23
+  offset: 1, 2
+  index: -1
+paokdd
+  rotate: false
+  xy: 225, 165
+  size: 37, 37
+  orig: 38, 38
+  offset: 1, 0
+  index: -1
+pq1
+  rotate: false
+  xy: 365, 21
+  size: 32, 30
+  orig: 34, 31
+  offset: 2, 0
+  index: -1
+pq2
+  rotate: false
+  xy: 402, 78
+  size: 31, 28
+  orig: 34, 31
+  offset: 3, 1
+  index: -1
+xingdian
+  rotate: false
+  xy: 225, 136
+  size: 24, 27
+  orig: 27, 29
+  offset: 2, 1
+  index: -1
+yd2
+  rotate: false
+  xy: 365, 53
+  size: 35, 53
+  orig: 37, 55
+  offset: 1, 1
+  index: -1

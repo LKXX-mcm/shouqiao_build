@@ -1,0 +1,48 @@
+
+jdt.png
+size: 716,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ding_g
+  rotate: false
+  xy: 2, 90
+  size: 683, 53
+  orig: 686, 58
+  offset: 2, 3
+  index: -1
+jd_g
+  rotate: false
+  xy: 2, 48
+  size: 684, 40
+  orig: 686, 42
+  offset: 1, 1
+  index: -1
+jdt
+  rotate: false
+  xy: 2, 25
+  size: 665, 21
+  orig: 665, 21
+  offset: 0, 0
+  index: -1
+jdt2
+  rotate: false
+  xy: 2, 2
+  size: 665, 21
+  orig: 665, 21
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 669, 20
+  size: 21, 21
+  orig: 24, 23
+  offset: 2, 1
+  index: -1
+sg
+  rotate: false
+  xy: 688, 43
+  size: 23, 100
+  orig: 25, 102
+  offset: 1, 1
+  index: -1

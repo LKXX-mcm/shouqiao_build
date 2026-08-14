@@ -1,0 +1,55 @@
+
+ui.png
+size: 428,428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g
+  rotate: false
+  xy: 2, 29
+  size: 423, 140
+  orig: 423, 140
+  offset: 0, 0
+  index: -1
+k1
+  rotate: false
+  xy: 24, 408
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+k2
+  rotate: false
+  xy: 2, 416
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+mianfei
+  rotate: false
+  xy: 48, 368
+  size: 116, 57
+  orig: 117, 57
+  offset: 0, 0
+  index: -1
+ui
+  rotate: false
+  xy: 2, 171
+  size: 398, 114
+  orig: 398, 114
+  offset: 0, 0
+  index: -1
+ui_g
+  rotate: false
+  xy: 2, 287
+  size: 398, 78
+  orig: 398, 78
+  offset: 0, 0
+  index: -1
+ui_zi
+  rotate: false
+  xy: 166, 367
+  size: 211, 58
+  orig: 212, 58
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+qqss_jy.png
+size: 681,681
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiu1
+  rotate: false
+  xy: 2, 316
+  size: 225, 363
+  orig: 225, 365
+  offset: 0, 2
+  index: -1
+qiu2
+  rotate: true
+  xy: 229, 337
+  size: 173, 310
+  orig: 173, 310
+  offset: 0, 0
+  index: -1
+qiu3
+  rotate: true
+  xy: 229, 512
+  size: 167, 312
+  orig: 167, 312
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 496, 46
+  size: 122, 176
+  orig: 122, 176
+  offset: 0, 0
+  index: -1
+tansheng
+  rotate: true
+  xy: 543, 597
+  size: 82, 75
+  orig: 82, 75
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 107
+  size: 345, 207
+  orig: 345, 208
+  offset: 0, 1
+  index: -1
+tx/zk1
+  rotate: false
+  xy: 344, 25
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+tx/zk2
+  rotate: true
+  xy: 149, 42
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+tx/zk3
+  rotate: true
+  xy: 2, 40
+  size: 65, 73
+  orig: 65, 73
+  offset: 0, 0
+  index: -1
+tx/zk4
+  rotate: true
+  xy: 543, 524
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+weibo
+  rotate: true
+  xy: 622, 173
+  size: 176, 57
+  orig: 176, 57
+  offset: 0, 0
+  index: -1
+yanzhu
+  rotate: true
+  xy: 229, 319
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: true
+  xy: 349, 82
+  size: 253, 145
+  orig: 267, 159
+  offset: 7, 7
+  index: -1
+ys
+  rotate: false
+  xy: 541, 351
+  size: 118, 159
+  orig: 119, 159
+  offset: 1, 0
+  index: -1
+ys2
+  rotate: false
+  xy: 77, 41
+  size: 70, 64
+  orig: 70, 64
+  offset: 0, 0
+  index: -1
+ys3
+  rotate: false
+  xy: 294, 54
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+ysg
+  rotate: false
+  xy: 496, 170
+  size: 124, 165
+  orig: 125, 165
+  offset: 1, 0
+  index: -1
+zidan
+  rotate: false
+  xy: 294, 9
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+zs
+  rotate: false
+  xy: 620, 541
+  size: 57, 72
+  orig: 125, 92
+  offset: 1, 1
+  index: -1
+zs2
+  rotate: false
+  xy: 219, 43
+  size: 73, 62
+  orig: 73, 62
+  offset: 0, 0
+  index: -1
+zs3
+  rotate: true
+  xy: 620, 615
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1

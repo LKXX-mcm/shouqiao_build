@@ -1,0 +1,209 @@
+
+13.png
+size: 411,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1
+  rotate: true
+  xy: 277, 229
+  size: 26, 20
+  orig: 29, 22
+  offset: 1, 1
+  index: -1
+d2
+  rotate: false
+  xy: 373, 37
+  size: 24, 17
+  orig: 26, 19
+  offset: 1, 1
+  index: -1
+d3
+  rotate: true
+  xy: 373, 11
+  size: 16, 20
+  orig: 18, 23
+  offset: 1, 2
+  index: -1
+ding
+  rotate: false
+  xy: 12, 296
+  size: 118, 30
+  orig: 120, 32
+  offset: 1, 1
+  index: -1
+g
+  rotate: false
+  xy: 234, 224
+  size: 31, 31
+  orig: 37, 37
+  offset: 3, 3
+  index: -1
+images/liug_01
+  rotate: true
+  xy: 300, 64
+  size: 57, 74
+  orig: 128, 128
+  offset: 32, 23
+  index: -1
+images/liug_02
+  rotate: false
+  xy: 167, 126
+  size: 60, 87
+  orig: 128, 128
+  offset: 33, 19
+  index: -1
+images/liug_03
+  rotate: false
+  xy: 12, 10
+  size: 63, 91
+  orig: 128, 128
+  offset: 31, 29
+  index: -1
+images/liug_04
+  rotate: true
+  xy: 300, 131
+  size: 56, 82
+  orig: 128, 128
+  offset: 32, 41
+  index: -1
+images/liug_05
+  rotate: false
+  xy: 221, 31
+  size: 58, 85
+  orig: 128, 128
+  offset: 32, 35
+  index: -1
+images/liug_06
+  rotate: false
+  xy: 239, 129
+  size: 49, 85
+  orig: 128, 128
+  offset: 31, 23
+  index: -1
+images/liug_07
+  rotate: false
+  xy: 157, 18
+  size: 52, 88
+  orig: 128, 128
+  offset: 31, 20
+  index: -1
+images/liug_08
+  rotate: true
+  xy: 309, 197
+  size: 58, 83
+  orig: 128, 128
+  offset: 32, 17
+  index: -1
+images/yan_01
+  rotate: true
+  xy: 12, 111
+  size: 101, 51
+  orig: 128, 85
+  offset: 14, 4
+  index: -1
+images/yan_02
+  rotate: false
+  xy: 12, 222
+  size: 115, 64
+  orig: 128, 85
+  offset: 6, 4
+  index: -1
+images/yan_03
+  rotate: false
+  xy: 146, 265
+  size: 121, 72
+  orig: 128, 86
+  offset: 3, 5
+  index: -1
+images/yan_04
+  rotate: false
+  xy: 12, 336
+  size: 122, 77
+  orig: 128, 86
+  offset: 3, 5
+  index: -1
+images/yan_05
+  rotate: false
+  xy: 152, 347
+  size: 125, 78
+  orig: 128, 85
+  offset: 1, 4
+  index: -1
+images/yan_06
+  rotate: false
+  xy: 152, 435
+  size: 126, 79
+  orig: 128, 85
+  offset: 1, 4
+  index: -1
+lizi
+  rotate: true
+  xy: 221, 12
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 12, 423
+  size: 128, 91
+  orig: 128, 91
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 75, 116
+  size: 80, 96
+  orig: 80, 96
+  offset: 0, 0
+  index: -1
+tun
+  rotate: false
+  xy: 139, 223
+  size: 83, 32
+  orig: 83, 32
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 289, 265
+  size: 78, 103
+  orig: 78, 103
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 87, 14
+  size: 58, 92
+  orig: 58, 92
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 291, 17
+  size: 70, 37
+  orig: 72, 39
+  offset: 1, 1
+  index: -1
+zuan
+  rotate: true
+  xy: 290, 442
+  size: 72, 109
+  orig: 80, 111
+  offset: 1, 1
+  index: -1
+zuantou
+  rotate: false
+  xy: 386, 86
+  size: 13, 35
+  orig: 13, 35
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 290, 353
+  size: 79, 106
+  orig: 79, 106
+  offset: 0, 0
+  index: -1

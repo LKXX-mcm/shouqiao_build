@@ -1,0 +1,48 @@
+
+jingyand.png
+size: 52,121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ggg
+  rotate: true
+  xy: 26, 94
+  size: 25, 24
+  orig: 32, 31
+  offset: 4, 3
+  index: -1
+x1
+  rotate: true
+  xy: 22, 10
+  size: 48, 10
+  orig: 52, 11
+  offset: 3, 1
+  index: -1
+x2
+  rotate: true
+  xy: 2, 2
+  size: 56, 18
+  orig: 61, 21
+  offset: 1, 1
+  index: -1
+x3
+  rotate: true
+  xy: 34, 16
+  size: 47, 15
+  orig: 47, 17
+  offset: 0, 1
+  index: -1
+xddd
+  rotate: true
+  xy: 26, 65
+  size: 27, 22
+  orig: 28, 23
+  offset: 0, 1
+  index: -1
+zgg
+  rotate: false
+  xy: 2, 60
+  size: 22, 59
+  orig: 24, 61
+  offset: 1, 1
+  index: -1

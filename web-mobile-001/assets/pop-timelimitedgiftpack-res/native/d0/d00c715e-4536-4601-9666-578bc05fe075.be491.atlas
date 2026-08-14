@@ -1,0 +1,48 @@
+
+wurenlibao.png
+size: 412,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+p1
+  rotate: true
+  xy: 2, 149
+  size: 155, 160
+  orig: 182, 174
+  offset: 16, 10
+  index: -1
+p2
+  rotate: true
+  xy: 2, 9
+  size: 138, 132
+  orig: 169, 140
+  offset: 12, 4
+  index: -1
+p3
+  rotate: true
+  xy: 262, 119
+  size: 185, 148
+  orig: 189, 155
+  offset: 4, 3
+  index: -1
+s1
+  rotate: true
+  xy: 244, 13
+  size: 92, 99
+  orig: 95, 105
+  offset: 2, 0
+  index: -1
+wuren
+  rotate: true
+  xy: 164, 107
+  size: 197, 96
+  orig: 197, 96
+  offset: 0, 0
+  index: -1
+wurenx
+  rotate: false
+  xy: 136, 2
+  size: 106, 103
+  orig: 109, 106
+  offset: 1, 2
+  index: -1

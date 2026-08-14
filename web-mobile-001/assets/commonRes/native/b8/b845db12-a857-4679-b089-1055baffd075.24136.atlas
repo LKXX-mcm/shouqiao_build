@@ -1,0 +1,48 @@
+
+zhanlisheng.png
+size: 544,201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1
+  rotate: true
+  xy: 399, 21
+  size: 86, 64
+  orig: 89, 68
+  offset: 2, 2
+  index: -1
+d2
+  rotate: true
+  xy: 494, 121
+  size: 78, 48
+  orig: 82, 51
+  offset: 2, 2
+  index: -1
+d3
+  rotate: true
+  xy: 465, 24
+  size: 83, 66
+  orig: 87, 73
+  offset: 2, 3
+  index: -1
+gb
+  rotate: false
+  xy: 179, 109
+  size: 313, 90
+  orig: 316, 92
+  offset: 2, 1
+  index: -1
+gxxx
+  rotate: true
+  xy: 2, 5
+  size: 194, 175
+  orig: 194, 179
+  offset: 0, 1
+  index: -1
+xingddd
+  rotate: false
+  xy: 179, 2
+  size: 218, 105
+  orig: 218, 105
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+duqiu.png
+size: 280,56
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: true
+  xy: 222, 4
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+duye
+  rotate: false
+  xy: 222, 18
+  size: 54, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+qiu1
+  rotate: false
+  xy: 2, 2
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+qiu2
+  rotate: false
+  xy: 57, 2
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+qiu3
+  rotate: false
+  xy: 112, 2
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+qiu4
+  rotate: false
+  xy: 167, 2
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1

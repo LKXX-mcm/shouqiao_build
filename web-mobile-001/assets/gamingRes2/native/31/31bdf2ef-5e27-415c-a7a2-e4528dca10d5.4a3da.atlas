@@ -1,0 +1,132 @@
+
+jizlan.png
+size: 1009,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1
+  rotate: false
+  xy: 646, 0
+  size: 121, 59
+  orig: 124, 68
+  offset: 2, 0
+  index: -1
+d2
+  rotate: false
+  xy: 646, 59
+  size: 130, 50
+  orig: 133, 53
+  offset: 2, 2
+  index: -1
+d3
+  rotate: false
+  xy: 646, 109
+  size: 146, 51
+  orig: 150, 55
+  offset: 2, 2
+  index: -1
+hgd1
+  rotate: true
+  xy: 871, 33
+  size: 51, 59
+  orig: 59, 102
+  offset: 1, 0
+  index: -1
+hgd2
+  rotate: false
+  xy: 930, 23
+  size: 29, 29
+  orig: 32, 32
+  offset: 2, 1
+  index: -1
+hgx
+  rotate: true
+  xy: 415, 160
+  size: 160, 435
+  orig: 160, 478
+  offset: 0, 28
+  index: -1
+hgx2
+  rotate: false
+  xy: 0, 12
+  size: 429, 148
+  orig: 478, 160
+  offset: 27, 6
+  index: -1
+hgx3
+  rotate: false
+  xy: 415, 320
+  size: 440, 155
+  orig: 478, 160
+  offset: 25, 3
+  index: -1
+hongd
+  rotate: false
+  xy: 930, 52
+  size: 32, 32
+  orig: 35, 35
+  offset: 2, 1
+  index: -1
+hp1
+  rotate: true
+  xy: 215, 174
+  size: 133, 196
+  orig: 263, 260
+  offset: 64, 40
+  index: -1
+hp2
+  rotate: true
+  xy: 205, 307
+  size: 168, 210
+  orig: 214, 233
+  offset: 43, 23
+  index: -1
+hp3
+  rotate: true
+  xy: 429, 16
+  size: 144, 217
+  orig: 202, 226
+  offset: 44, 8
+  index: -1
+hp4
+  rotate: false
+  xy: 850, 84
+  size: 149, 169
+  orig: 201, 198
+  offset: 33, 13
+  index: -1
+hp5
+  rotate: false
+  xy: 855, 253
+  size: 154, 222
+  orig: 241, 265
+  offset: 49, 29
+  index: -1
+hp5b
+  rotate: true
+  xy: 0, 164
+  size: 108, 215
+  orig: 225, 232
+  offset: 54, 7
+  index: -1
+hp6
+  rotate: true
+  xy: 0, 272
+  size: 203, 205
+  orig: 206, 207
+  offset: 2, 1
+  index: -1
+huang
+  rotate: false
+  xy: 792, 88
+  size: 51, 72
+  orig: 53, 72
+  offset: 1, 0
+  index: -1
+huang2
+  rotate: true
+  xy: 776, 9
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+dianwanggao.png
+size: 798,651
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dw1
+  rotate: false
+  xy: 0, 241
+  size: 512, 118
+  orig: 512, 123
+  offset: 0, 0
+  index: -1
+dw2
+  rotate: false
+  xy: 0, 141
+  size: 512, 100
+  orig: 512, 106
+  offset: 0, 6
+  index: -1
+dw3
+  rotate: false
+  xy: 0, 359
+  size: 512, 134
+  orig: 512, 135
+  offset: 0, 1
+  index: -1
+dw4
+  rotate: true
+  xy: 693, 139
+  size: 512, 105
+  orig: 512, 120
+  offset: 0, 4
+  index: -1
+td1
+  rotate: false
+  xy: 512, 253
+  size: 113, 96
+  orig: 113, 99
+  offset: 0, 2
+  index: -1
+td2
+  rotate: true
+  xy: 698, 26
+  size: 113, 100
+  orig: 113, 102
+  offset: 0, 0
+  index: -1
+td3
+  rotate: true
+  xy: 512, 145
+  size: 108, 99
+  orig: 110, 99
+  offset: 1, 0
+  index: -1
+wang
+  rotate: false
+  xy: 0, 493
+  size: 693, 158
+  orig: 693, 158
+  offset: 0, 0
+  index: -1
+xd2
+  rotate: true
+  xy: 611, 157
+  size: 96, 38
+  orig: 96, 43
+  offset: 0, 5
+  index: -1
+xian
+  rotate: false
+  xy: 0, 0
+  size: 698, 139
+  orig: 700, 151
+  offset: 1, 1
+  index: -1
+zg
+  rotate: false
+  xy: 512, 349
+  size: 144, 144
+  orig: 154, 154
+  offset: 5, 5
+  index: -1
+zhuzi
+  rotate: false
+  xy: 656, 352
+  size: 32, 141
+  orig: 33, 141
+  offset: 0, 0
+  index: -1

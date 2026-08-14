@@ -1,0 +1,27 @@
+
+sunwukonggun.png
+size: 319,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h1
+  rotate: true
+  xy: 0, 4
+  size: 122, 119
+  orig: 124, 121
+  offset: 1, 1
+  index: -1
+h2
+  rotate: true
+  xy: 119, 0
+  size: 126, 110
+  orig: 127, 111
+  offset: 1, 1
+  index: -1
+h3
+  rotate: false
+  xy: 229, 35
+  size: 90, 91
+  orig: 91, 92
+  offset: 1, 1
+  index: -1

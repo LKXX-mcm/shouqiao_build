@@ -1,0 +1,27 @@
+
+kjq.png
+size: 363,188
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+kjh
+  rotate: true
+  xy: 12, 83
+  size: 95, 91
+  orig: 102, 102
+  offset: 5, 9
+  index: -1
+q
+  rotate: true
+  xy: 115, 10
+  size: 74, 224
+  orig: 90, 227
+  offset: 8, 2
+  index: -1
+q.pngg
+  rotate: true
+  xy: 115, 94
+  size: 84, 236
+  orig: 98, 237
+  offset: 7, 1
+  index: -1

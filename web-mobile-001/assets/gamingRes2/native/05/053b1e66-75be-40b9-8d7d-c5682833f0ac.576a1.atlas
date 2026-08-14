@@ -1,0 +1,20 @@
+
+zhuanpan.png
+size: 228,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhuanp
+  rotate: true
+  xy: 133, 36
+  size: 95, 93
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+zhuanppggg
+  rotate: false
+  xy: 2, 2
+  size: 129, 129
+  orig: 130, 130
+  offset: 1, 1
+  index: -1

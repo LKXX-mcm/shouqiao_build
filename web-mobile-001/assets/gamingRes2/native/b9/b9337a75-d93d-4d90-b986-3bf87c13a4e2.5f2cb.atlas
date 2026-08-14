@@ -1,0 +1,195 @@
+
+feiji.png
+size: 492,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cc1
+  rotate: true
+  xy: 316, 282
+  size: 207, 149
+  orig: 210, 152
+  offset: 2, 1
+  index: -1
+cc2
+  rotate: true
+  xy: 316, 85
+  size: 195, 146
+  orig: 197, 148
+  offset: 1, 1
+  index: -1
+daodan
+  rotate: true
+  xy: 121, 28
+  size: 55, 90
+  orig: 55, 90
+  offset: 0, 0
+  index: -1
+fjt
+  rotate: true
+  xy: 2, 97
+  size: 119, 95
+  orig: 119, 95
+  offset: 0, 0
+  index: -1
+kh/kh1
+  rotate: true
+  xy: 451, 7
+  size: 76, 29
+  orig: 79, 29
+  offset: 3, 0
+  index: -1
+kh/kh2
+  rotate: false
+  xy: 213, 13
+  size: 76, 27
+  orig: 79, 29
+  offset: 2, 0
+  index: -1
+kh/kh3
+  rotate: true
+  xy: 467, 370
+  size: 65, 11
+  orig: 79, 29
+  offset: 6, 8
+  index: -1
+sg
+  rotate: true
+  xy: 299, 50
+  size: 33, 104
+  orig: 33, 104
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 213, 42
+  size: 82, 34
+  orig: 83, 36
+  offset: 0, 1
+  index: -1
+sj1/1
+  rotate: false
+  xy: 141, 138
+  size: 34, 34
+  orig: 43, 45
+  offset: 3, 5
+  index: -1
+sj1/2
+  rotate: true
+  xy: 358, 6
+  size: 42, 43
+  orig: 43, 45
+  offset: 0, 1
+  index: -1
+sj1/3
+  rotate: true
+  xy: 152, 174
+  size: 42, 43
+  orig: 43, 45
+  offset: 0, 1
+  index: -1
+sj1/4
+  rotate: false
+  xy: 99, 94
+  size: 38, 40
+  orig: 43, 45
+  offset: 0, 1
+  index: -1
+sj1/5
+  rotate: true
+  xy: 467, 336
+  size: 32, 19
+  orig: 43, 45
+  offset: 4, 22
+  index: -1
+st
+  rotate: false
+  xy: 2, 218
+  size: 312, 271
+  orig: 312, 271
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 213, 78
+  size: 138, 84
+  orig: 138, 84
+  offset: 0, 0
+  index: -1
+yj_g
+  rotate: true
+  xy: 467, 437
+  size: 52, 20
+  orig: 54, 22
+  offset: 1, 1
+  index: -1
+yw
+  rotate: false
+  xy: 464, 215
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 2, 29
+  size: 117, 54
+  orig: 119, 56
+  offset: 1, 1
+  index: -1
+小爆炸/baozha1_0
+  rotate: false
+  xy: 467, 321
+  size: 16, 13
+  orig: 67, 67
+  offset: 28, 19
+  index: -1
+小爆炸/baozha1_1
+  rotate: false
+  xy: 99, 177
+  size: 51, 39
+  orig: 67, 67
+  offset: 10, 14
+  index: -1
+小爆炸/baozha1_2
+  rotate: true
+  xy: 405, 28
+  size: 55, 44
+  orig: 67, 67
+  offset: 7, 11
+  index: -1
+小爆炸/baozha1_3
+  rotate: false
+  xy: 297, 8
+  size: 59, 40
+  orig: 67, 67
+  offset: 5, 12
+  index: -1
+小爆炸/baozha1_4
+  rotate: false
+  xy: 99, 136
+  size: 40, 39
+  orig: 67, 67
+  offset: 13, 16
+  index: -1
+小爆炸/baozha1_5
+  rotate: false
+  xy: 139, 94
+  size: 38, 40
+  orig: 67, 67
+  offset: 16, 15
+  index: -1
+小爆炸/baozha1_6
+  rotate: true
+  xy: 179, 135
+  size: 37, 27
+  orig: 67, 67
+  offset: 15, 15
+  index: -1
+小爆炸/baozha1_7
+  rotate: true
+  xy: 464, 241
+  size: 39, 24
+  orig: 67, 67
+  offset: 14, 19
+  index: -1

@@ -1,0 +1,62 @@
+
+baos.png
+size: 112,759
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 523
+  size: 96, 96
+  orig: 109, 118
+  offset: 7, 13
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 106, 116
+  orig: 109, 118
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 424
+  size: 97, 104
+  orig: 109, 118
+  offset: 9, 3
+  index: -1
+4
+  rotate: true
+  xy: 2, 222
+  size: 100, 108
+  orig: 105, 110
+  offset: 2, 0
+  index: -1
+4a
+  rotate: true
+  xy: 2, 621
+  size: 74, 78
+  orig: 105, 110
+  offset: 16, 13
+  index: -1
+4b
+  rotate: false
+  xy: 2, 697
+  size: 69, 60
+  orig: 105, 110
+  offset: 18, 22
+  index: -1
+5
+  rotate: false
+  xy: 2, 120
+  size: 100, 100
+  orig: 109, 118
+  offset: 6, 9
+  index: -1
+6
+  rotate: false
+  xy: 2, 324
+  size: 100, 98
+  orig: 109, 118
+  offset: 6, 10
+  index: -1

@@ -1,0 +1,55 @@
+
+zbxq.png
+size: 332,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dg
+  rotate: false
+  xy: 130, 2
+  size: 92, 88
+  orig: 94, 89
+  offset: 1, 1
+  index: -1
+k1
+  rotate: false
+  xy: 2, 54
+  size: 126, 117
+  orig: 128, 119
+  offset: 1, 1
+  index: -1
+k2
+  rotate: false
+  xy: 161, 211
+  size: 126, 117
+  orig: 128, 119
+  offset: 1, 1
+  index: -1
+k3
+  rotate: false
+  xy: 161, 92
+  size: 126, 117
+  orig: 128, 119
+  offset: 1, 1
+  index: -1
+lizi
+  rotate: false
+  xy: 2, 8
+  size: 41, 44
+  orig: 43, 46
+  offset: 1, 1
+  index: -1
+sg
+  rotate: false
+  xy: 2, 173
+  size: 157, 155
+  orig: 167, 167
+  offset: 5, 5
+  index: -1
+shu_g
+  rotate: false
+  xy: 289, 184
+  size: 16, 144
+  orig: 18, 146
+  offset: 1, 2
+  index: -1

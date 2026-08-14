@@ -1,0 +1,76 @@
+
+shangz.png
+size: 422,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 346
+  size: 150, 278
+  orig: 168, 279
+  offset: 5, 1
+  index: -1
+2
+  rotate: true
+  xy: 2, 179
+  size: 165, 224
+  orig: 181, 226
+  offset: 11, 1
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 155, 175
+  orig: 175, 227
+  offset: 10, 52
+  index: -1
+4
+  rotate: true
+  xy: 278, 136
+  size: 199, 129
+  orig: 201, 129
+  offset: 1, 0
+  index: -1
+d1
+  rotate: false
+  xy: 228, 301
+  size: 48, 43
+  orig: 50, 46
+  offset: 1, 1
+  index: -1
+d2
+  rotate: true
+  xy: 339, 490
+  size: 44, 53
+  orig: 46, 56
+  offset: 1, 1
+  index: -1
+gq
+  rotate: true
+  xy: 159, 8
+  size: 169, 101
+  orig: 172, 106
+  offset: 0, 4
+  index: -1
+rg
+  rotate: true
+  xy: 282, 337
+  size: 151, 138
+  orig: 153, 139
+  offset: 1, 0
+  index: -1
+xx
+  rotate: false
+  xy: 262, 39
+  size: 95, 95
+  orig: 96, 95
+  offset: 1, 0
+  index: -1
+zg
+  rotate: true
+  xy: 2, 498
+  size: 36, 335
+  orig: 39, 341
+  offset: 1, 6
+  index: -1

@@ -1,0 +1,90 @@
+
+8.png
+size: 269,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bing
+  rotate: true
+  xy: 12, 12
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+dao
+  rotate: true
+  xy: 12, 151
+  size: 68, 118
+  orig: 68, 118
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 186, 10
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+shui
+  rotate: false
+  xy: 251, 186
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 12, 52
+  size: 89, 110
+  orig: 89, 110
+  offset: 0, 0
+  index: -1
+tun
+  rotate: true
+  xy: 195, 130
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+tx
+  rotate: true
+  xy: 12, 229
+  size: 62, 171
+  orig: 62, 171
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 142, 136
+  size: 41, 83
+  orig: 41, 83
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 195, 204
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 186, 83
+  size: 70, 37
+  orig: 72, 39
+  offset: 1, 1
+  index: -1
+zuoshou
+  rotate: false
+  xy: 134, 41
+  size: 40, 85
+  orig: 40, 85
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 195, 251
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1

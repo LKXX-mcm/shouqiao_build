@@ -1,0 +1,153 @@
+
+Feng.png
+size: 404,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feng
+  rotate: false
+  xy: 2, 3
+  size: 21, 8
+  orig: 21, 9
+  offset: 0, 1
+  index: -1
+fs
+  rotate: false
+  xy: 2, 118
+  size: 137, 135
+  orig: 138, 138
+  offset: 0, 2
+  index: -1
+hd1
+  rotate: true
+  xy: 325, 74
+  size: 74, 61
+  orig: 81, 63
+  offset: 6, 1
+  index: -1
+hd2
+  rotate: false
+  xy: 316, 24
+  size: 81, 48
+  orig: 81, 63
+  offset: 0, 8
+  index: -1
+hd3
+  rotate: false
+  xy: 170, 6
+  size: 67, 37
+  orig: 81, 63
+  offset: 8, 11
+  index: -1
+heidian
+  rotate: false
+  xy: 239, 16
+  size: 73, 27
+  orig: 75, 34
+  offset: 2, 2
+  index: -1
+heidian2
+  rotate: true
+  xy: 245, 156
+  size: 75, 32
+  orig: 75, 34
+  offset: 0, 2
+  index: -1
+heidian3
+  rotate: true
+  xy: 363, 150
+  size: 46, 18
+  orig: 75, 34
+  offset: 17, 11
+  index: -1
+ksfq_add/ksfq_1_000
+  rotate: true
+  xy: 383, 174
+  size: 22, 19
+  orig: 138, 63
+  offset: 71, 21
+  index: -1
+ksfq_add/ksfq_1_001
+  rotate: false
+  xy: 256, 48
+  size: 58, 29
+  orig: 138, 63
+  offset: 42, 17
+  index: -1
+ksfq_add/ksfq_1_003
+  rotate: false
+  xy: 279, 150
+  size: 82, 46
+  orig: 138, 63
+  offset: 29, 11
+  index: -1
+ksfq_add/ksfq_1_005
+  rotate: true
+  xy: 116, 9
+  size: 107, 52
+  orig: 138, 63
+  offset: 15, 7
+  index: -1
+ksfq_add/ksfq_1_007
+  rotate: false
+  xy: 157, 233
+  size: 126, 60
+  orig: 138, 63
+  offset: 7, 1
+  index: -1
+stone/st_00
+  rotate: false
+  xy: 256, 79
+  size: 67, 69
+  orig: 132, 120
+  offset: 63, 0
+  index: -1
+stone/st_02
+  rotate: true
+  xy: 170, 45
+  size: 87, 84
+  orig: 132, 120
+  offset: 38, 9
+  index: -1
+stone/st_04
+  rotate: false
+  xy: 141, 134
+  size: 102, 97
+  orig: 132, 120
+  offset: 21, 15
+  index: -1
+stone/st_06
+  rotate: false
+  xy: 285, 198
+  size: 102, 97
+  orig: 132, 120
+  offset: 20, 18
+  index: -1
+stone/st_08
+  rotate: false
+  xy: 2, 13
+  size: 112, 103
+  orig: 132, 120
+  offset: 10, 14
+  index: -1
+stone/st_10
+  rotate: false
+  xy: 157, 295
+  size: 120, 107
+  orig: 132, 120
+  offset: 1, 11
+  index: -1
+stone/st_12
+  rotate: false
+  xy: 279, 297
+  size: 108, 105
+  orig: 132, 120
+  offset: 12, 14
+  index: -1
+xuanfeng
+  rotate: false
+  xy: 2, 255
+  size: 153, 147
+  orig: 153, 147
+  offset: 0, 0
+  index: -1
