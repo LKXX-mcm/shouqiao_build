@@ -1,0 +1,160 @@
+
+wuqijiesuo.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cg
+  rotate: true
+  xy: 133, 7
+  size: 147, 138
+  orig: 148, 149
+  offset: 0, 5
+  index: -1
+dg
+  rotate: false
+  xy: 2, 7
+  size: 129, 129
+  orig: 153, 153
+  offset: 12, 12
+  index: -1
+dian
+  rotate: false
+  xy: 273, 2
+  size: 24, 26
+  orig: 26, 28
+  offset: 1, 1
+  index: -1
+dian2
+  rotate: true
+  xy: 299, 5
+  size: 23, 19
+  orig: 25, 21
+  offset: 1, 1
+  index: -1
+jie-0
+  rotate: false
+  xy: 1029, 127
+  size: 170, 170
+  orig: 172, 172
+  offset: 1, 1
+  index: -1
+jie-1
+  rotate: false
+  xy: 509, 337
+  size: 170, 170
+  orig: 172, 172
+  offset: 1, 1
+  index: -1
+jie-2
+  rotate: false
+  xy: 681, 337
+  size: 170, 170
+  orig: 172, 172
+  offset: 1, 1
+  index: -1
+jie-3
+  rotate: false
+  xy: 853, 337
+  size: 170, 170
+  orig: 172, 172
+  offset: 1, 1
+  index: -1
+jie-4
+  rotate: false
+  xy: 1025, 337
+  size: 170, 170
+  orig: 172, 172
+  offset: 1, 1
+  index: -1
+lizi
+  rotate: true
+  xy: 320, 10
+  size: 18, 32
+  orig: 18, 33
+  offset: 0, 1
+  index: -1
+suo1
+  rotate: true
+  xy: 256, 247
+  size: 260, 251
+  orig: 262, 253
+  offset: 1, 1
+  index: -1
+suo2
+  rotate: false
+  xy: 273, 30
+  size: 170, 126
+  orig: 170, 126
+  offset: 0, 0
+  index: -1
+suotiao
+  rotate: true
+  xy: 515, 10
+  size: 68, 36
+  orig: 70, 38
+  offset: 1, 1
+  index: -1
+tiao1
+  rotate: true
+  xy: 127, 156
+  size: 351, 127
+  orig: 353, 129
+  offset: 1, 1
+  index: -1
+tiao2
+  rotate: true
+  xy: 2, 138
+  size: 369, 123
+  orig: 371, 125
+  offset: 1, 1
+  index: -1
+tiao3
+  rotate: false
+  xy: 256, 158
+  size: 573, 87
+  orig: 575, 89
+  offset: 1, 1
+  index: -1
+xing
+  rotate: false
+  xy: 509, 281
+  size: 54, 54
+  orig: 56, 56
+  offset: 1, 1
+  index: -1
+xing2
+  rotate: false
+  xy: 509, 248
+  size: 30, 31
+  orig: 32, 33
+  offset: 1, 1
+  index: -1
+xing3
+  rotate: false
+  xy: 445, 10
+  size: 68, 68
+  orig: 70, 70
+  offset: 1, 1
+  index: -1
+zi-wuqijiesuo
+  rotate: false
+  xy: 445, 80
+  size: 582, 76
+  orig: 582, 76
+  offset: 0, 0
+  index: -1
+zi-wuqijiesuo_e
+  rotate: false
+  xy: 553, 22
+  size: 582, 56
+  orig: 582, 76
+  offset: 0, 0
+  index: -1
+zi-wuqijiesuo_y
+  rotate: false
+  xy: 565, 299
+  size: 582, 36
+  orig: 582, 76
+  offset: 0, 0
+  index: -1

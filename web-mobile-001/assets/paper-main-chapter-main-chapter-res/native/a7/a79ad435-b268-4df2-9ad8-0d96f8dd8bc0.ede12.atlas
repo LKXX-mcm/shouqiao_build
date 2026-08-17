@@ -1,0 +1,97 @@
+
+shouqiao.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slgq
+  rotate: true
+  xy: 2, 34
+  size: 92, 25
+  orig: 92, 25
+  offset: 0, 0
+  index: -1
+slgq_e
+  rotate: true
+  xy: 47, 38
+  size: 88, 15
+  orig: 92, 25
+  offset: 2, 4
+  index: -1
+slgq_y
+  rotate: true
+  xy: 29, 34
+  size: 92, 16
+  orig: 92, 25
+  offset: 0, 4
+  index: -1
+sqd
+  rotate: false
+  xy: 216, 6
+  size: 28, 20
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+sqdb
+  rotate: false
+  xy: 64, 49
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+sqgg
+  rotate: true
+  xy: 122, 6
+  size: 41, 49
+  orig: 47, 62
+  offset: 4, 7
+  index: -1
+sqj1
+  rotate: true
+  xy: 141, 52
+  size: 74, 23
+  orig: 74, 23
+  offset: 0, 0
+  index: -1
+sqj2
+  rotate: true
+  xy: 166, 65
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+sqr
+  rotate: false
+  xy: 216, 28
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+sqre
+  rotate: true
+  xy: 173, 14
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+sqre_e
+  rotate: true
+  xy: 191, 77
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+sqre_y
+  rotate: false
+  xy: 71, 6
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+sqz
+  rotate: false
+  xy: 2, 2
+  size: 67, 30
+  orig: 67, 30
+  offset: 0, 0
+  index: -1

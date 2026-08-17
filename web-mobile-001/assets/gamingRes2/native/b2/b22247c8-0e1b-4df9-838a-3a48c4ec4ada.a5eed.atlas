@@ -1,0 +1,125 @@
+
+biaosheng.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b
+  rotate: false
+  xy: 1107, 4
+  size: 126, 115
+  orig: 128, 115
+  offset: 1, 0
+  index: -1
+b_e
+  rotate: false
+  xy: 513, 2
+  size: 127, 65
+  orig: 128, 115
+  offset: 0, 24
+  index: -1
+b_y
+  rotate: false
+  xy: 1313, 139
+  size: 95, 113
+  orig: 128, 115
+  offset: 15, 1
+  index: -1
+d
+  rotate: true
+  xy: 1235, 11
+  size: 116, 105
+  orig: 116, 107
+  offset: 0, 1
+  index: -1
+d_e
+  rotate: false
+  xy: 866, 20
+  size: 115, 56
+  orig: 116, 107
+  offset: 1, 24
+  index: -1
+d_y
+  rotate: false
+  xy: 642, 5
+  size: 115, 62
+  orig: 116, 107
+  offset: 1, 21
+  index: -1
+dg
+  rotate: false
+  xy: 513, 69
+  size: 183, 183
+  orig: 218, 218
+  offset: 18, 17
+  index: -1
+di
+  rotate: false
+  xy: 698, 78
+  size: 260, 83
+  orig: 260, 83
+  offset: 0, 0
+  index: -1
+di2
+  rotate: false
+  xy: 698, 163
+  size: 279, 89
+  orig: 279, 89
+  offset: 0, 0
+  index: -1
+gth
+  rotate: false
+  xy: 245, 40
+  size: 266, 212
+  orig: 266, 212
+  offset: 0, 0
+  index: -1
+n
+  rotate: true
+  xy: 1342, 29
+  size: 108, 98
+  orig: 108, 98
+  offset: 0, 0
+  index: -1
+n_e
+  rotate: false
+  xy: 759, 7
+  size: 105, 69
+  orig: 108, 98
+  offset: 2, 15
+  index: -1
+n_y
+  rotate: false
+  xy: 960, 105
+  size: 108, 56
+  orig: 108, 98
+  offset: 0, 21
+  index: -1
+s
+  rotate: true
+  xy: 1070, 121
+  size: 131, 123
+  orig: 132, 124
+  offset: 0, 0
+  index: -1
+s_e
+  rotate: false
+  xy: 1195, 129
+  size: 116, 123
+  orig: 132, 124
+  offset: 8, 0
+  index: -1
+s_y
+  rotate: true
+  xy: 983, 9
+  size: 94, 122
+  orig: 132, 124
+  offset: 19, 1
+  index: -1
+yuan
+  rotate: false
+  xy: 2, 11
+  size: 241, 241
+  orig: 241, 241
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+shibai.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bt-sb1
+  rotate: false
+  xy: 959, 110
+  size: 543, 131
+  orig: 543, 131
+  offset: 0, 0
+  index: -1
+bt-sb2
+  rotate: false
+  xy: 861, 6
+  size: 651, 90
+  orig: 651, 90
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 815, 98
+  size: 142, 143
+  orig: 166, 167
+  offset: 12, 12
+  index: -1
+quan
+  rotate: false
+  xy: 287, 33
+  size: 208, 208
+  orig: 210, 210
+  offset: 1, 1
+  index: -1
+sb
+  rotate: true
+  xy: 2, 2
+  size: 239, 140
+  orig: 241, 143
+  offset: 1, 1
+  index: -1
+sb_e
+  rotate: false
+  xy: 700, 4
+  size: 159, 56
+  orig: 241, 143
+  offset: 41, 43
+  index: -1
+sb_y
+  rotate: true
+  xy: 700, 62
+  size: 179, 113
+  orig: 241, 143
+  offset: 31, 15
+  index: -1
+tz
+  rotate: true
+  xy: 144, 5
+  size: 236, 141
+  orig: 239, 143
+  offset: 1, 1
+  index: -1
+tz_e
+  rotate: true
+  xy: 497, 34
+  size: 207, 67
+  orig: 239, 143
+  offset: 16, 38
+  index: -1
+tz_y
+  rotate: true
+  xy: 566, 44
+  size: 197, 132
+  orig: 239, 143
+  offset: 21, 5
+  index: -1

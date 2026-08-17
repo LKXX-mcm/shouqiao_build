@@ -1,0 +1,83 @@
+
+12_bei.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dhk
+  rotate: true
+  xy: 108, 59
+  size: 194, 104
+  orig: 194, 104
+  offset: 0, 0
+  index: -1
+dhk_e
+  rotate: true
+  xy: 214, 59
+  size: 194, 104
+  orig: 194, 104
+  offset: 0, 0
+  index: -1
+dhk_y
+  rotate: true
+  xy: 2, 59
+  size: 194, 104
+  orig: 194, 104
+  offset: 0, 0
+  index: -1
+gebo
+  rotate: true
+  xy: 110, 22
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 320, 26
+  size: 85, 85
+  orig: 85, 86
+  offset: 0, 1
+  index: -1
+tou
+  rotate: false
+  xy: 320, 113
+  size: 125, 140
+  orig: 125, 140
+  offset: 0, 0
+  index: -1
+ykq
+  rotate: false
+  xy: 241, 2
+  size: 23, 55
+  orig: 23, 55
+  offset: 0, 0
+  index: -1
+yt
+  rotate: false
+  xy: 208, 4
+  size: 31, 53
+  orig: 34, 53
+  offset: 3, 0
+  index: -1
+z1
+  rotate: true
+  xy: 2, 16
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+z2
+  rotate: false
+  xy: 65, 7
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+zt
+  rotate: false
+  xy: 172, 4
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
