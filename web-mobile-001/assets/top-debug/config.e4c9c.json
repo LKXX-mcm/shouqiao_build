@@ -1,0 +1,1 @@
+{"importBase":"import","nativeBase":"native","name":"top-debug","deps":["top-debug-res"],"uuids":["90qCF8iDRJdoDTWV14m0/F","54MdnSIAdAzqk7aKqT/1kL@f9941"],"paths":{"0":["TopDebug",0,1]},"scenes":{},"packs":{},"versions":{"import":[0,"54787"],"native":[]},"redirect":[1,"0"],"debug":false,"extensionMap":{},"hasPreloadScript":true,"dependencyRelationships":{},"types":["cc.Prefab"]}
